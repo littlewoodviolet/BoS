@@ -1,0 +1,4611 @@
+1
+00:00:10,320 --> 00:00:12,930
+This normally wouldn't be an
+hour, but we're going to chop it
+
+2
+00:00:12,930 --> 00:00:17,760
+down and speed it up and keep
+the back half hour for q&a as we
+
+3
+00:00:17,760 --> 00:00:20,640
+go. Great. So we're gonna talk
+about hiring a head of product.
+
+4
+00:00:20,640 --> 00:00:24,030
+And as Mark said, I think this
+is really a general topic. But
+
+5
+00:00:24,030 --> 00:00:27,870
+because I'm a pure software
+product management guy, I'm
+
+6
+00:00:27,870 --> 00:00:31,590
+telling it from my side of the
+story. So, you know, we'll be
+
+7
+00:00:31,590 --> 00:00:34,740
+able to generalize quite a bit,
+but we'll take it from that
+
+8
+00:00:34,740 --> 00:00:35,280
+point of view.
+
+9
+00:00:36,080 --> 00:00:40,370
+Okay, just a very brief
+introduction for me. Quick hint,
+
+10
+00:00:40,400 --> 00:00:44,840
+I'm on the right in this photo.
+On the left is my other office
+
+11
+00:00:44,840 --> 00:00:48,230
+manager, Celeste, Olivia may
+join us as you saw during the
+
+12
+00:00:48,230 --> 00:00:52,400
+warm up. So what's important
+about this for the talk is to
+
+13
+00:00:52,400 --> 00:00:56,360
+set up why I think I might have
+something to say about it. I'm a
+
+14
+00:00:56,360 --> 00:01:01,520
+30 plus year veteran of Silicon
+Valley b2b enterprise software.
+
+15
+00:01:01,520 --> 00:01:04,910
+So I had my first product
+management job in the late 80s.
+
+16
+00:01:04,940 --> 00:01:07,940
+It's not a new thing. And these
+days, I'm spending a lot of my
+
+17
+00:01:07,940 --> 00:01:11,240
+time helping software companies
+design their product
+
+18
+00:01:11,240 --> 00:01:16,160
+organizations, coaching their
+product leaders. And then you
+
+19
+00:01:16,160 --> 00:01:18,860
+know, the statistic that's
+probably important here. So in
+
+20
+00:01:18,860 --> 00:01:23,210
+the last 19 years, since I went
+solo, I've done about 150
+
+21
+00:01:23,210 --> 00:01:26,720
+engagements with different
+clients, of which a dozen are
+
+22
+00:01:26,720 --> 00:01:30,200
+what we've called the
+smokejumper, VP product jobs. So
+
+23
+00:01:30,200 --> 00:01:33,230
+that's where I come into a
+company as the interim or
+
+24
+00:01:33,230 --> 00:01:36,590
+temporary head of product for
+usually a couple of quarters and
+
+25
+00:01:36,590 --> 00:01:39,800
+get everything straightened out.
+I've also done a little over a
+
+26
+00:01:39,800 --> 00:01:44,210
+dozen assistance roles where I
+help my clients figure out who
+
+27
+00:01:44,210 --> 00:01:46,580
+they need as head of product,
+and then interview the
+
+28
+00:01:46,580 --> 00:01:51,140
+candidates and be part of the
+the assessment team, which is
+
+29
+00:01:51,140 --> 00:01:53,600
+really where this is coming out.
+So having done a few dozen of
+
+30
+00:01:53,600 --> 00:01:57,470
+these, I may be, you know, more
+frequently in this role than
+
+31
+00:01:57,470 --> 00:02:00,710
+anyone else on the planet other
+than folks who are in the search
+
+32
+00:02:00,710 --> 00:02:01,550
+business themselves.
+
+33
+00:02:01,550 --> 00:02:05,090
+So I've tried to pull together
+some observations that might be
+
+34
+00:02:05,090 --> 00:02:07,940
+useful for us, you know, of
+course in the narrow: how do we
+
+35
+00:02:07,940 --> 00:02:11,840
+hire head of product? And in the
+broader: How do we apply lessons
+
+36
+00:02:11,840 --> 00:02:13,130
+to some of the other
+departments?
+
+37
+00:02:13,850 --> 00:02:18,830
+Okay, let's jump in. The first
+challenge I think we have is,
+
+38
+00:02:19,100 --> 00:02:21,890
+nobody seems to know what to
+call this job. So here's our
+
+39
+00:02:22,280 --> 00:02:26,900
+caped crusader hero, we don't
+know this dog's name. But what I
+
+40
+00:02:26,900 --> 00:02:30,800
+observe is that I'm going to use
+the phrase head of product, H O,
+
+41
+00:02:30,800 --> 00:02:33,380
+P, because we need to call it
+something. And I'm going to
+
+42
+00:02:33,380 --> 00:02:38,300
+specifically say that what we're
+talking about is folks who
+
+43
+00:02:38,300 --> 00:02:41,930
+manage product managers. Again,
+this would seem obvious, most of
+
+44
+00:02:41,930 --> 00:02:43,970
+this is obvious, but I'm
+discovering that it's not.
+
+45
+00:02:44,180 --> 00:02:47,030
+Sometimes we call those folks
+Chief Product Officer, VP,
+
+46
+00:02:47,030 --> 00:02:49,190
+Product Director, product,
+group, product, lead, whatever,
+
+47
+00:02:49,190 --> 00:02:53,180
+whatever. And this person might
+also have, I don't know, a
+
+48
+00:02:53,180 --> 00:02:57,200
+couple of designers, there might
+be a market research person or
+
+49
+00:02:57,200 --> 00:03:01,910
+whatever. But I'm specifically
+going to not talk about folks
+
+50
+00:03:02,000 --> 00:03:04,760
+who are mostly running
+development or engineering
+
+51
+00:03:04,760 --> 00:03:07,670
+teams. So there's lots of the
+piece of product out there with
+
+52
+00:03:07,670 --> 00:03:12,050
+many different names CIO, CTO,
+General Manager, I observed that
+
+53
+00:03:12,080 --> 00:03:17,510
+if you are managing, let's say,
+85 developers, and for product
+
+54
+00:03:17,510 --> 00:03:20,690
+managers, most of your brain is
+on the development side of the
+
+55
+00:03:20,690 --> 00:03:23,390
+house, not the product side of
+the house. So I'm going to not
+
+56
+00:03:23,390 --> 00:03:26,330
+include those folks in our
+little breakdown here.
+
+57
+00:03:28,220 --> 00:03:33,230
+Okay, here's our little bad dog.
+And, and a few of the failures
+
+58
+00:03:33,230 --> 00:03:36,860
+that I see over and over again,
+as we say, you know, what are
+
+59
+00:03:36,860 --> 00:03:41,360
+the primary failures that either
+I'm called in to fix, or I'm
+
+60
+00:03:41,600 --> 00:03:45,020
+stuck on the side of the road
+watching the accidents for, and
+
+61
+00:03:45,000 --> 00:03:49,200
+The first one, which is maybe
+where we're gonna spend most of
+
+62
+00:03:45,020 --> 00:03:45,620
+there's really three.
+
+63
+00:03:49,200 --> 00:03:54,060
+our time for the next 40
+minutes, is companies that hire
+
+64
+00:03:54,060 --> 00:03:56,940
+somebody to be the head of
+product, who's neither led a
+
+65
+00:03:56,940 --> 00:04:00,060
+product team, nor been a product
+manager, this is a head
+
+66
+00:04:00,060 --> 00:04:02,490
+scratcher for me, but we'll
+break it down a little bit.
+
+67
+00:04:02,930 --> 00:04:07,070
+The second failure mode I see
+is, if you're the first product
+
+68
+00:04:07,070 --> 00:04:10,010
+person in the door at a startup,
+or the first head of product at
+
+69
+00:04:10,010 --> 00:04:13,820
+a startup, it's pretty rare for
+the founders to actually give up
+
+70
+00:04:13,820 --> 00:04:17,300
+the autonomy and control that
+they need for you to succeed,
+
+71
+00:04:17,600 --> 00:04:21,200
+even though they say they do.
+And so I see the duration of
+
+72
+00:04:21,200 --> 00:04:24,800
+that first head of product being
+pretty short. The acronym
+
+73
+00:04:24,800 --> 00:04:29,120
+sometimes we use his MTBE,
+meantime between executives.
+
+74
+00:04:29,720 --> 00:04:32,750
+And then the third thing that
+really contributes I think to
+
+75
+00:04:32,750 --> 00:04:36,470
+what we're going to see is that
+many of the folks at software
+
+76
+00:04:36,470 --> 00:04:39,320
+companies who lead software
+companies who found companies
+
+77
+00:04:39,470 --> 00:04:43,220
+don't actually understand what
+product management does. And so
+
+78
+00:04:43,250 --> 00:04:46,010
+they've got some real
+misapprehensions or confusion
+
+79
+00:04:46,280 --> 00:04:48,710
+around what it is that they need
+and have a product.
+
+80
+00:04:50,160 --> 00:04:53,700
+Okay, so because I don't want to
+be talking the whole time, we're
+
+81
+00:04:53,700 --> 00:04:57,750
+going to do a little experiment
+here. We're going to try a bit
+
+82
+00:04:57,750 --> 00:05:01,530
+of a tweetstorm. So if I can ask
+get everybody to open up their
+
+83
+00:05:01,530 --> 00:05:04,890
+chat box. And here's the
+question I want you to ask,
+
+84
+00:05:04,890 --> 00:05:07,500
+don't hit return yet. So type in
+your answer, and then we'll all
+
+85
+00:05:07,500 --> 00:05:10,800
+hit it at once. So we can all
+see it at once. If you are going
+
+86
+00:05:10,800 --> 00:05:15,240
+to be interviewing somebody as
+your new potential VP of sales
+
+87
+00:05:15,240 --> 00:05:18,510
+or Chief Revenue Officer, what's
+the first question or two, you
+
+88
+00:05:18,510 --> 00:05:22,860
+would want to ask them? I'll
+give everybody a minute. And
+
+89
+00:05:22,860 --> 00:05:28,080
+then count to three, count to
+four, count to five. All right,
+
+90
+00:05:28,080 --> 00:05:31,020
+when you have an answer, hit
+Return, and I'll pick a few of
+
+91
+00:05:31,020 --> 00:05:34,350
+them out of here. Okay, that's
+right.
+
+92
+00:05:34,380 --> 00:05:37,320
+Tell me about your first sales
+job. How do you increase sales?
+
+93
+00:05:37,500 --> 00:05:40,470
+What's your sales strategy?
+What's your sales process?
+
+94
+00:05:40,470 --> 00:05:43,110
+Excellent. How much revenue did
+you earn last year? What was
+
+95
+00:05:43,110 --> 00:05:43,770
+your quota?
+
+96
+00:05:44,700 --> 00:05:49,530
+So those are all questions that
+would suggest that we'd really
+
+97
+00:05:49,530 --> 00:05:52,020
+like to have somebody as our VP
+of sales or chief revenue
+
+98
+00:05:52,020 --> 00:05:55,350
+officer who has been a
+salesperson and maybe lead
+
+99
+00:05:55,380 --> 00:05:57,990
+salespeople. Because it turns
+out there's a lot of art and
+
+100
+00:05:57,990 --> 00:06:00,840
+science. Yes, I do know Paul
+Kenny, and I think he's
+
+101
+00:06:00,840 --> 00:06:05,580
+brilliant. And I rarely see a
+company that hires a head of
+
+102
+00:06:05,580 --> 00:06:08,310
+sales who has not been in sales
+before, although, in full
+
+103
+00:06:08,310 --> 00:06:11,670
+disclosure, one of my clients
+had somebody running sales who's
+
+104
+00:06:11,670 --> 00:06:14,700
+really a finance guy from m&a.
+And that's a lot more
+
+105
+00:06:14,700 --> 00:06:18,300
+challenging. Likewise, if we're
+going to hire somebody, as our
+
+106
+00:06:18,300 --> 00:06:20,760
+Chief Financial Officer, we'd
+really like to know that they
+
+107
+00:06:20,760 --> 00:06:25,050
+understand payroll, and how to
+run an accounts payable or
+
+108
+00:06:25,050 --> 00:06:29,040
+receivables group, how to keep
+our executives out of jail by
+
+109
+00:06:29,040 --> 00:06:32,010
+not running out of money. If
+we're gonna hire somebody who's
+
+110
+00:06:32,010 --> 00:06:35,700
+a VP of engineering or a CTO, we
+might, for instance, want them
+
+111
+00:06:35,700 --> 00:06:39,150
+to have built software before
+that would be really handy.
+
+112
+00:06:39,420 --> 00:06:43,050
+Maybe even run a software team
+or two, because if we dropped
+
+113
+00:06:43,050 --> 00:06:45,930
+somebody in his VP of
+engineering, who thinks that
+
+114
+00:06:45,930 --> 00:06:49,530
+software is neat, and might like
+to build some, someday, we've
+
+115
+00:06:49,530 --> 00:06:53,220
+got a lot of hurt on our hands.
+Again, it would seem obvious,
+
+116
+00:06:53,220 --> 00:06:57,120
+but what I noticed over and over
+again, and it's Tuesday, I had
+
+117
+00:06:57,120 --> 00:07:01,620
+this discussion twice yesterday
+with some of my clients were at
+
+118
+00:07:01,620 --> 00:07:04,860
+the very, very top in the very
+first position of the
+
+119
+00:07:04,860 --> 00:07:08,340
+requirements for this job of
+head of product, what we don't
+
+120
+00:07:08,340 --> 00:07:15,240
+find is, in a product manager,
+run a product team. Okay, so
+
+121
+00:07:15,390 --> 00:07:18,510
+let's, let's get back to our
+animals just a little bit and
+
+122
+00:07:18,540 --> 00:07:21,690
+consider some different animals
+we might want for this job.
+
+123
+00:07:22,950 --> 00:07:27,330
+All right. Certainly here,
+here's my ideal candidate for
+
+124
+00:07:27,330 --> 00:07:29,670
+the head of product, you'll
+notice this Australian Shepherd
+
+125
+00:07:29,670 --> 00:07:33,780
+is going to move the sheep
+along. Everything about this
+
+126
+00:07:33,780 --> 00:07:35,970
+head of product job,
+particularly at a startup that's
+
+127
+00:07:35,970 --> 00:07:39,360
+trying to find its way is
+thinking about the market and
+
+128
+00:07:39,360 --> 00:07:42,510
+the segments, not the
+individual, not the one sheep,
+
+129
+00:07:42,840 --> 00:07:45,690
+we've got to move the whole herd
+to wherever the water is,
+
+130
+00:07:45,990 --> 00:07:48,900
+instead of letting them wander
+in all directions. Do we have a
+
+131
+00:07:48,900 --> 00:07:52,290
+clear strategy? Is it tied to
+what our development team is
+
+132
+00:07:52,290 --> 00:07:55,530
+going to do? We're going to
+measure outcomes, can we move
+
+133
+00:07:55,530 --> 00:07:59,460
+the whole company along toward
+our product goal and our revenue
+
+134
+00:07:59,460 --> 00:08:03,960
+goal. An important useful fact
+here is that nobody works for
+
+135
+00:08:03,960 --> 00:08:06,930
+product management, we've got
+lots of responsibility and
+
+136
+00:08:06,960 --> 00:08:10,770
+absolutely no authority. So
+other than nipping at our heels
+
+137
+00:08:10,770 --> 00:08:14,640
+and moving people along, you
+know, not many sticks to
+
+138
+00:08:14,700 --> 00:08:18,240
+swinging there. And a lot of it
+is about long term thinking, if
+
+139
+00:08:18,240 --> 00:08:20,880
+we're going to get the whole
+company toward a strategic
+
+140
+00:08:20,880 --> 00:08:23,670
+outcome, we're all going to have
+to work together, we're going to
+
+141
+00:08:23,670 --> 00:08:27,480
+reduce distractions, we're going
+to block interrupts, we're going
+
+142
+00:08:27,480 --> 00:08:30,450
+to hate one off requests from
+customers that somehow are going
+
+143
+00:08:30,450 --> 00:08:31,350
+to distract us.
+
+144
+00:08:31,650 --> 00:08:36,000
+And I know as, as the many time
+had a product, every single
+
+145
+00:08:36,000 --> 00:08:38,460
+department in the company is
+going to wander at some point.
+
+146
+00:08:38,790 --> 00:08:40,530
+And we're going to have to keep
+calling them back with
+
+147
+00:08:40,530 --> 00:08:44,160
+reminders. Who are we selling
+to? Why are they going to buy?
+
+148
+00:08:44,460 --> 00:08:47,250
+Is this the most wonderful
+thing? How do we talk about it?
+
+149
+00:08:47,520 --> 00:08:50,580
+Okay, so there's our animal
+choice for head of product.
+
+150
+00:08:50,820 --> 00:08:55,260
+Let's pick a few more. Here's
+our Chief Revenue Officer, our
+
+151
+00:08:55,260 --> 00:09:01,080
+VP of sales, very aggressive by
+nature, you know, fast, lethal.
+
+152
+00:09:01,680 --> 00:09:05,100
+But what else do we know about
+these, these hunting cats,
+
+153
+00:09:05,640 --> 00:09:08,730
+they're very focused, they bring
+in the red meat, they tend to be
+
+154
+00:09:08,730 --> 00:09:12,030
+single account focused, right?
+They're gonna find the weakest
+
+155
+00:09:12,030 --> 00:09:14,730
+prey out there, whichever the
+envelope is easier to bring
+
+156
+00:09:14,730 --> 00:09:18,870
+down. And they're tremendously
+focused on the current quarter.
+
+157
+00:09:19,140 --> 00:09:22,830
+Every salesperson I know can
+tell me to the exact number, how
+
+158
+00:09:22,830 --> 00:09:25,080
+many days are left in the
+quarter and how much of their
+
+159
+00:09:25,080 --> 00:09:28,830
+quota they've retired. And they
+strongly believe that they
+
+160
+00:09:28,830 --> 00:09:31,650
+really know exactly what the
+customer wants, even though
+
+161
+00:09:31,680 --> 00:09:35,190
+everything about selling is
+about pushing our point of view
+
+162
+00:09:35,220 --> 00:09:38,400
+and getting the users or the
+buyers or their prospects to say
+
+163
+00:09:38,400 --> 00:09:42,540
+yes, instead of delving deeply
+and finding out what their real
+
+164
+00:09:42,540 --> 00:09:44,100
+issues are, so we can solve
+them.
+
+165
+00:09:44,820 --> 00:09:49,170
+When I see product management
+teams working for sales - so
+
+166
+00:09:49,170 --> 00:09:52,680
+either we move the product team
+under the sales organization, or
+
+167
+00:09:52,680 --> 00:09:57,840
+we bring a head of sales over to
+run product very quickly. What
+
+168
+00:09:57,840 --> 00:10:01,860
+we discover is the whole product
+team has really become the order
+
+169
+00:10:01,860 --> 00:10:06,450
+ticking handmaidens to sales.
+We're working on single decks
+
+170
+00:10:06,450 --> 00:10:10,470
+for single meetings or
+customers. And we've given up
+
+171
+00:10:10,470 --> 00:10:14,580
+our whole strategic roadmap in
+favor of whatever the top few
+
+172
+00:10:14,580 --> 00:10:18,210
+customers have asked for in the
+last, I don't know, 10 minutes.
+
+173
+00:10:18,510 --> 00:10:18,840
+Okay.
+
+174
+00:10:18,840 --> 00:10:22,680
+So while I love having a head of
+sales, a chief revenue officer,
+
+175
+00:10:22,680 --> 00:10:25,350
+and I've failed at doing it
+myself, so I know it's really
+
+176
+00:10:25,350 --> 00:10:29,460
+hard, I can't see bringing those
+folks in to run a product team.
+
+177
+00:10:29,520 --> 00:10:33,150
+Okay, some other choices. For
+any of you who are CEOs, I hope
+
+178
+00:10:33,150 --> 00:10:38,430
+this looks familiar. When I see
+a CEO who's doing well seven
+
+179
+00:10:38,430 --> 00:10:41,640
+other things, and has one of the
+eight tentacles on the product
+
+180
+00:10:41,640 --> 00:10:46,440
+side, we've got a part time time
+sliced person running product.
+
+181
+00:10:47,100 --> 00:10:50,970
+Generally, the failures I see
+are around sampling. Many of you
+
+182
+00:10:50,970 --> 00:10:56,190
+who been CEOs know that the most
+frequent calls you get are for
+
+183
+00:10:56,190 --> 00:10:59,340
+some big current customer who's
+unhappy, because you never hear
+
+184
+00:10:59,340 --> 00:11:02,070
+from the small ones. And from
+all of your sales teams to help
+
+185
+00:11:02,070 --> 00:11:05,790
+you lobby the next sales deal.
+So you've got a very strange
+
+186
+00:11:06,000 --> 00:11:09,480
+recency bias view of life. And
+you're not going to be able to
+
+187
+00:11:09,480 --> 00:11:13,080
+spend the time to worry about
+strategy and product and pricing
+
+188
+00:11:13,080 --> 00:11:16,140
+and positioning and all the
+things that product needs to do.
+
+189
+00:11:16,230 --> 00:11:20,130
+So we need one of these CEOs,
+but we sure don't need them as a
+
+190
+00:11:20,130 --> 00:11:20,850
+head of product.
+
+191
+00:11:20,940 --> 00:11:24,840
+Okay, a few more choices. Let's
+think about our VP engineering
+
+192
+00:11:24,840 --> 00:11:29,010
+because often, I see the product
+team tucked in under the CTO,
+
+193
+00:11:29,010 --> 00:11:32,910
+the CIO, the VP engineering, and
+these tend to be a lot more
+
+194
+00:11:32,910 --> 00:11:35,070
+methodical, they're orderly,
+they're thoughtful, they're
+
+195
+00:11:35,070 --> 00:11:39,240
+patient, tough, right? Many of
+them are nocturnal. We don't see
+
+196
+00:11:39,240 --> 00:11:41,970
+them so much early in the
+office. And while they're very
+
+197
+00:11:41,970 --> 00:11:46,020
+communicative, they're mostly
+communicate over Slack. So we
+
+198
+00:11:46,020 --> 00:11:49,140
+don't hear from them that much.
+We know they're emotional, but
+
+199
+00:11:49,170 --> 00:11:54,300
+we don't see it so much. And
+what I see often with VPs of
+
+200
+00:11:54,300 --> 00:11:58,980
+engineering, is they have this
+very odd strange belief that all
+
+201
+00:11:58,980 --> 00:12:02,640
+of our customers are rational,
+that they evaluate all the tech
+
+202
+00:12:02,640 --> 00:12:07,200
+or product strictly on a
+rational straightforward bases.
+
+203
+00:12:07,410 --> 00:12:10,740
+And that buying and selling are
+easy that what sales reps do is
+
+204
+00:12:10,740 --> 00:12:14,010
+they bring a price list and a
+presentation, and they collect
+
+205
+00:12:14,010 --> 00:12:17,580
+purchase orders. So while it's
+great, again, to have a VP of
+
+206
+00:12:17,580 --> 00:12:21,120
+engineering, they those folks
+tend not to have strong
+
+207
+00:12:21,120 --> 00:12:25,440
+understanding of selling, or
+marketing or positioning, or
+
+208
+00:12:25,560 --> 00:12:28,650
+many of the things that we have
+to do on the product side. So
+
+209
+00:12:28,650 --> 00:12:32,610
+stuff gets sold. So not as bad
+as some of the other choices.
+
+210
+00:12:32,610 --> 00:12:35,700
+But again, not my favorite,
+let's go we have a couple more
+
+211
+00:12:35,700 --> 00:12:36,270
+choices.
+
+212
+00:12:38,220 --> 00:12:41,040
+Here's some folks I love at
+every company I've ever worked
+
+213
+00:12:41,040 --> 00:12:43,710
+for. They're the customer
+support and Customer Success
+
+214
+00:12:43,710 --> 00:12:46,980
+people. What do we know about
+them? We know they're
+
+215
+00:12:47,130 --> 00:12:51,330
+tremendously huge supporters of
+their customers, they're going
+
+216
+00:12:51,330 --> 00:12:54,060
+to go the extra, not just the
+single kilometer, they'll
+
+217
+00:12:54,090 --> 00:12:58,080
+they'll go the extra 100 miles,
+they do tend to be single
+
+218
+00:12:58,290 --> 00:13:02,130
+customer or single account folks
+at a time. Often your customer
+
+219
+00:13:02,130 --> 00:13:06,390
+success team is assigned long
+term to just one customer. And
+
+220
+00:13:06,390 --> 00:13:09,060
+as you can see here, they're
+willing to take that one
+
+221
+00:13:09,060 --> 00:13:13,230
+customer over every bump and
+through every traffic signal and
+
+222
+00:13:13,230 --> 00:13:16,140
+stopping at every corner,
+whether that's good for the
+
+223
+00:13:16,140 --> 00:13:19,980
+company or not as a whole. So
+they're never trained to say no,
+
+224
+00:13:20,160 --> 00:13:24,270
+they're trained to say yes, and
+to help that one customer figure
+
+225
+00:13:24,270 --> 00:13:27,930
+out how to do the one special
+thing. When we put our product
+
+226
+00:13:27,930 --> 00:13:31,620
+hats on, we usually take a
+different point of view. Instead
+
+227
+00:13:31,620 --> 00:13:34,800
+of asking how we can help be of
+the most help to our next
+
+228
+00:13:34,800 --> 00:13:40,320
+customer. We ask how we can
+engineer away most of the human
+
+229
+00:13:40,320 --> 00:13:44,100
+support, can we make onboarding
+easier? Can we create tools? Can
+
+230
+00:13:44,100 --> 00:13:47,580
+we make the workflows better?
+How do we get out from under the
+
+231
+00:13:47,580 --> 00:13:52,110
+support and success work as
+opposed to do more of it? And
+
+232
+00:13:52,110 --> 00:13:54,090
+know that we're the most
+important folks on the planet?
+
+233
+00:13:55,470 --> 00:13:58,500
+Okay, take a breath here. I
+think we've got maybe one more.
+
+234
+00:13:59,250 --> 00:14:02,370
+Here's the one that doesn't
+happen so often, but I run into
+
+235
+00:14:02,370 --> 00:14:06,270
+sometimes we'll take a moment
+because you all know what the
+
+236
+00:14:06,270 --> 00:14:12,510
+picture is going to be right? So
+here's my new baby puppy, six
+
+237
+00:14:12,510 --> 00:14:17,220
+weeks, or maybe six months as a
+product manager, excuse me, I
+
+238
+00:14:17,220 --> 00:14:20,400
+usually expect it's going to
+take maybe three or four years
+
+239
+00:14:20,400 --> 00:14:24,360
+to grow this puppy up to be a
+really, really terrific product
+
+240
+00:14:24,360 --> 00:14:27,630
+manager and another three or
+four years to grow them up to be
+
+241
+00:14:27,630 --> 00:14:30,150
+a product leader where there
+might be a director and heading
+
+242
+00:14:30,150 --> 00:14:30,840
+up a team.
+
+243
+00:14:31,170 --> 00:14:34,260
+And most importantly, having
+done this a bunch of times I
+
+244
+00:14:34,260 --> 00:14:37,230
+know that when I', hiring
+somebody who's never been a
+
+245
+00:14:37,230 --> 00:14:40,050
+product manager before I as the
+product leader, I'm going to
+
+246
+00:14:40,050 --> 00:14:43,830
+spend a lot of time house
+training, right coaching and
+
+247
+00:14:43,830 --> 00:14:47,160
+mentoring and business life
+skills. We're not going to send
+
+248
+00:14:47,160 --> 00:14:50,370
+this puppy in to an important
+meeting with our biggest
+
+249
+00:14:50,370 --> 00:14:55,410
+customer until we've given it
+some training. And as every head
+
+250
+00:14:55,410 --> 00:14:58,200
+of product knows, there's going
+to be a bunch of accidents and
+
+251
+00:14:58,200 --> 00:15:01,110
+we may have to clean up the
+carpet. Add or even replace it a
+
+252
+00:15:01,110 --> 00:15:06,720
+few times. So, while I love
+having newly minted or freshly
+
+253
+00:15:06,720 --> 00:15:10,950
+arrived product managers on the
+team, I wouldn't put them in as
+
+254
+00:15:10,950 --> 00:15:11,730
+head of product.
+
+255
+00:15:12,960 --> 00:15:17,130
+Okay, so we're through most of
+our animals. Let's, let's open
+
+256
+00:15:17,130 --> 00:15:24,210
+this up. Where are we? Here we
+go. And I think we want to, we
+
+257
+00:15:24,210 --> 00:15:26,070
+want to ask you guys again,
+let's come back to our
+
+258
+00:15:26,070 --> 00:15:29,010
+tweetstorm. Just for fun,
+because I'm going to give us
+
+259
+00:15:29,040 --> 00:15:34,950
+briefly really three different
+thoughts for, you know,
+
+260
+00:15:35,040 --> 00:15:38,760
+misconceptions that may be
+underlying this. And I'm having
+
+261
+00:15:38,760 --> 00:15:41,310
+a lot of trouble finding my chat
+window, but I'm sure we'll get
+
+262
+00:15:41,310 --> 00:15:50,220
+there. So go ahead. If anybody
+has an idea, why don't you give
+
+263
+00:15:50,220 --> 00:15:52,920
+me an idea - one or two or three
+- type them in, something that's
+
+264
+00:15:52,920 --> 00:15:55,950
+a core misconception from the
+rest of the executive team,
+
+265
+00:15:56,280 --> 00:15:59,460
+about what product leadership is
+or what we need? So I can break
+
+266
+00:15:59,460 --> 00:16:03,450
+those down. And don't wait, just
+drop them in. It's just about
+
+267
+00:16:03,450 --> 00:16:04,320
+prioritizing work.
+
+268
+00:16:04,000 --> 00:16:06,700
+John, you're exactly right.
+Doesn't know the real value.
+
+269
+00:16:06,700 --> 00:16:10,180
+Ouch, that hurts. It's all about
+which feature next product owns
+
+270
+00:16:10,180 --> 00:16:14,260
+the voice of the customer?
+Right? Getting software built
+
+271
+00:16:14,260 --> 00:16:17,860
+faster? That was the winning
+answer I wanted. Only product
+
+272
+00:16:17,860 --> 00:16:20,380
+management knows the answers. I
+believe that but nobody else
+
+273
+00:16:20,380 --> 00:16:24,220
+believes it, right? Why do we
+need you anyway, engineering
+
+274
+00:16:24,220 --> 00:16:26,680
+builds it, I'd love it. These
+are all spot on?
+
+275
+00:16:26,800 --> 00:16:31,630
+Okay, so here's the three I
+picked out. The first one, and I
+
+276
+00:16:31,630 --> 00:16:36,130
+think several of you said there,
+right? That what we really need
+
+277
+00:16:36,160 --> 00:16:40,210
+is we need product engineering
+to say yes to the sales side of
+
+278
+00:16:40,210 --> 00:16:42,910
+the house more often. And so
+therefore what product
+
+279
+00:16:42,940 --> 00:16:46,510
+management product leadership
+should be doing? Is whipping the
+
+280
+00:16:46,510 --> 00:16:50,620
+engineers harder, right? How do
+we get more stuff out of the
+
+281
+00:16:50,770 --> 00:16:52,300
+development side of the house.
+
+282
+00:16:52,840 --> 00:16:57,010
+The second thing I run into a
+lot is, oh, well, our products
+
+283
+00:16:57,010 --> 00:17:01,510
+really very complicated. And so
+nobody can understand our
+
+284
+00:17:01,510 --> 00:17:04,450
+product unless they have at
+least one or two advanced
+
+285
+00:17:04,450 --> 00:17:07,990
+degrees in our thing. So it's
+not possible to hire any product
+
+286
+00:17:07,990 --> 00:17:10,960
+managers, unless they also
+happen to have been at a famous
+
+287
+00:17:10,960 --> 00:17:13,720
+university with a thesis on our
+stuff, right.
+
+288
+00:17:14,050 --> 00:17:16,960
+And then the third one, which I
+think several of you had there
+
+289
+00:17:16,960 --> 00:17:22,000
+is the executive team has this
+odd belief that our strategies
+
+290
+00:17:22,000 --> 00:17:25,540
+are so clear, and so aligned and
+the OKRs is so well written,
+
+291
+00:17:25,780 --> 00:17:29,530
+that everybody's going to just
+do the right thing and be on the
+
+292
+00:17:29,530 --> 00:17:33,610
+right page without much help.
+And honestly, I think I've never
+
+293
+00:17:33,610 --> 00:17:34,630
+found this to be true.
+
+294
+00:17:35,080 --> 00:17:40,120
+So let's unpack these three,
+just a little bit. And here we
+
+295
+00:17:40,120 --> 00:17:45,040
+go. So if anybody's at this
+engineering organization, but
+
+296
+00:17:45,040 --> 00:17:47,500
+this is every engineering team
+or development team I've ever
+
+297
+00:17:47,500 --> 00:17:52,450
+met, there is no development
+team on the planet that isn't
+
+298
+00:17:52,450 --> 00:17:57,580
+already overloaded and has too
+much to do 2x 5x 10x. Yet, the
+
+299
+00:17:57,580 --> 00:18:00,460
+executive team tells us that
+what we really want is to push
+
+300
+00:18:00,460 --> 00:18:03,910
+harder, right? So the executive
+team, the go to market team,
+
+301
+00:18:04,150 --> 00:18:07,420
+there's usually some hot issue
+in their head, right? Just got
+
+302
+00:18:07,420 --> 00:18:10,270
+off a call with a customer. But
+every dev team is
+
+303
+00:18:10,270 --> 00:18:14,050
+oversubscribed. And so we end up
+in this ADHD model of
+
+304
+00:18:14,050 --> 00:18:19,090
+roadmapping. Where every 2.5
+minutes, it turns out, we've got
+
+305
+00:18:19,090 --> 00:18:22,420
+a new strategy. And the failure
+mode I see. In fact, I'm writing
+
+306
+00:18:22,420 --> 00:18:25,540
+a really long piece for one of
+my clients on this is that we
+
+307
+00:18:25,540 --> 00:18:28,930
+have too many number one items.
+And our answer when something's
+
+308
+00:18:28,930 --> 00:18:32,590
+important is to make another new
+thing. Another top number one
+
+309
+00:18:32,590 --> 00:18:35,920
+items, so we constantly add, and
+the team actually never finishes
+
+310
+00:18:35,920 --> 00:18:39,730
+anything. Right? So the
+reputation that engineering gets
+
+311
+00:18:39,730 --> 00:18:42,400
+is that they're losers or
+slackers are sitting around
+
+312
+00:18:42,400 --> 00:18:46,690
+eating bonbons, when the root
+issue of course, is we've taken
+
+313
+00:18:46,690 --> 00:18:49,540
+on four times as much as we can,
+and we're thrashing.
+
+314
+00:18:50,140 --> 00:18:54,100
+Right second of these, right,
+only our special experts can
+
+315
+00:18:54,100 --> 00:18:58,060
+understand here's our product
+manager unable to find her way
+
+316
+00:18:58,060 --> 00:19:01,180
+through the maze, because too
+complicated. And I've taken
+
+317
+00:19:01,180 --> 00:19:04,720
+notes over the years. And the
+winner I think was, Oh, our
+
+318
+00:19:04,720 --> 00:19:08,890
+company's doing six factor
+authentication. And no one can
+
+319
+00:19:08,890 --> 00:19:12,010
+understand Understand six factor
+authentication, unless they've
+
+320
+00:19:12,010 --> 00:19:14,770
+got at least one or two advanced
+degrees in CES and
+
+321
+00:19:14,770 --> 00:19:18,130
+authentication. So there is no
+product manager who's going to
+
+322
+00:19:18,130 --> 00:19:21,910
+understand this. Now, that's a
+bit of a problem, not just for
+
+323
+00:19:21,910 --> 00:19:24,010
+the product manager, but
+probably for the customers,
+
+324
+00:19:24,010 --> 00:19:28,420
+right? Because if we can't
+explain it to a product manager,
+
+325
+00:19:28,600 --> 00:19:32,290
+then we probably can't sell it
+to anybody. Right? And when we
+
+326
+00:19:32,290 --> 00:19:35,800
+hire a subject expert who's
+never worn the product badge
+
+327
+00:19:35,800 --> 00:19:37,270
+before, here's what I see.
+
+328
+00:19:38,170 --> 00:19:41,560
+First of all, those subject
+experts usually don't ever think
+
+329
+00:19:41,560 --> 00:19:44,200
+about the newbies, the
+onboarding, the economics,
+
+330
+00:19:44,380 --> 00:19:46,720
+they're always thinking about
+the two or three buddies of
+
+331
+00:19:46,720 --> 00:19:51,160
+theirs, who are the power high
+end users, and they routinely
+
+332
+00:19:51,160 --> 00:19:54,910
+decide that their point of view
+is so much more accurate than
+
+333
+00:19:54,910 --> 00:19:56,800
+what anything we're going to
+learn from customers is of
+
+334
+00:19:56,800 --> 00:20:00,640
+course customers don't know what
+they want that They put
+
+335
+00:20:00,640 --> 00:20:03,670
+themselves in the place of
+already knowing all the answers
+
+336
+00:20:03,700 --> 00:20:06,640
+instead of going out and doing
+what every good product person
+
+337
+00:20:06,640 --> 00:20:10,270
+does, which is endlessly,
+repeatedly every single day,
+
+338
+00:20:10,630 --> 00:20:13,240
+talking to lots of users and
+customers and prospects and
+
+339
+00:20:13,240 --> 00:20:16,840
+partners and lost deals, to find
+out what's actually true in the
+
+340
+00:20:16,840 --> 00:20:21,010
+world. And my observation is, if
+you give your newly arrived
+
+341
+00:20:21,010 --> 00:20:23,740
+Product Manager a couple of
+months of halftime, send them
+
+342
+00:20:23,740 --> 00:20:27,490
+out on the road, have them do 20
+or 30 customer meetings, they'll
+
+343
+00:20:27,490 --> 00:20:30,790
+come back understanding
+everything they need. So this
+
+344
+00:20:30,790 --> 00:20:34,600
+idea is I think, fallacious,
+it's just not true. But so many
+
+345
+00:20:34,600 --> 00:20:38,860
+places end up hiring a subject
+expert who honestly couldn't
+
+346
+00:20:38,860 --> 00:20:41,380
+spell product, if you gave him
+all the consonants in the
+
+347
+00:20:41,380 --> 00:20:42,070
+correct order.
+
+348
+00:20:43,420 --> 00:20:46,570
+And then my third one here,
+here's our geese all lined up.
+
+349
+00:20:46,570 --> 00:20:49,090
+Here's our beautiful strategy.
+everything's aligned, everybody
+
+350
+00:20:49,090 --> 00:20:53,290
+knows where we're going. The
+first thing I find when
+
+351
+00:20:53,290 --> 00:20:57,880
+customers or companies adopt
+OKRs, is they adopt first just
+
+352
+00:20:57,880 --> 00:21:00,910
+some revenue OKRs. Right, our
+goal for the quarter is to make
+
+353
+00:21:00,940 --> 00:21:05,140
+20 million. And, you know, that
+might suggest that I'm going to
+
+354
+00:21:05,350 --> 00:21:08,530
+sell off some my household
+furniture for revenue or stand
+
+355
+00:21:08,530 --> 00:21:11,230
+on the corner in a very short
+skirt, it's not a pretty sight.
+
+356
+00:21:12,940 --> 00:21:16,570
+When we try to, to figure out
+how to apply that to product,
+
+357
+00:21:16,570 --> 00:21:20,650
+it's a zero help in figuring out
+what's more important, or most
+
+358
+00:21:20,650 --> 00:21:24,070
+important, because we haven't
+yet gotten down to target
+
+359
+00:21:24,070 --> 00:21:26,830
+audiences and positioning and
+where we're going to win where
+
+360
+00:21:26,830 --> 00:21:27,670
+we're going to not win.
+
+361
+00:21:28,210 --> 00:21:31,720
+The other thing I see in these
+organizations is that all the
+
+362
+00:21:31,720 --> 00:21:36,100
+OKRs are really functional level
+ones. Finance has its goals.
+
+363
+00:21:36,310 --> 00:21:39,820
+Marketing has its goals, and
+they simply don't ever touch.
+
+364
+00:21:40,420 --> 00:21:44,500
+Part of what we do is head of
+product back to our sheepdog is,
+
+365
+00:21:44,650 --> 00:21:49,090
+I spent an awful lot of my time
+trying to get my executive peers
+
+366
+00:21:49,360 --> 00:21:53,800
+to line up their their goals and
+maybe measure the right thing. I
+
+367
+00:21:53,800 --> 00:21:56,680
+don't know if you've ever been
+in a company where the support
+
+368
+00:21:56,680 --> 00:22:02,680
+team has a goal of shortening
+their average call. And you know
+
+369
+00:22:02,680 --> 00:22:06,310
+what they do it. And the way
+they do it is they throw folks
+
+370
+00:22:06,310 --> 00:22:09,550
+off the phone, and they don't
+solve the problems. So those
+
+371
+00:22:09,550 --> 00:22:12,580
+people can call back, but the
+average call is shorter. You
+
+372
+00:22:12,580 --> 00:22:15,070
+know, when we create goals, we
+have to be really thoughtful,
+
+373
+00:22:15,070 --> 00:22:18,100
+because folks are going to do
+just what we asked them paid
+
+374
+00:22:18,100 --> 00:22:18,610
+them to do.
+
+375
+00:22:19,650 --> 00:22:23,940
+Alright, so there's our three
+misconceptions. Here's a sort of
+
+376
+00:22:24,060 --> 00:22:26,760
+takeaway thought for me, by the
+way, I put a post up over the
+
+377
+00:22:26,760 --> 00:22:30,690
+weekend. That's the long form
+text version of this. So anybody
+
+378
+00:22:30,690 --> 00:22:34,290
+who feels like they want to read
+the 2000 words, just go to my
+
+379
+00:22:34,290 --> 00:22:37,530
+website, but he was the takeaway
+from that, right? What are the
+
+380
+00:22:37,530 --> 00:22:41,940
+key skills, right? A lot of
+negotiating a lot of empathy, a
+
+381
+00:22:41,940 --> 00:22:45,330
+lot of horse trading among the
+internal stakeholders. But
+
+382
+00:22:45,330 --> 00:22:48,540
+somebody's got to stand up for
+the real customers. I'm always
+
+383
+00:22:48,540 --> 00:22:53,130
+channeling the original Tron
+movie from 1982, where they say,
+
+384
+00:22:53,610 --> 00:22:57,240
+we fight for the users, we don't
+fight for the stakeholders, we
+
+385
+00:22:57,240 --> 00:22:58,230
+fight for the users.
+
+386
+00:22:58,510 --> 00:23:01,840
+Okay, so having done all that,
+I'm going to flash past three
+
+387
+00:23:02,020 --> 00:23:04,810
+quick slides here. I'm not even
+going to bother reading them
+
+388
+00:23:04,810 --> 00:23:08,860
+all. But I put together some
+interview questions that when we
+
+389
+00:23:08,860 --> 00:23:11,860
+look at the videotape, or you
+pull down the slide set, you
+
+390
+00:23:11,860 --> 00:23:14,650
+might want to borrow the next
+time you're interviewing you had
+
+391
+00:23:14,650 --> 00:23:18,160
+a product. So instead of asking
+how can we get more on the
+
+392
+00:23:18,160 --> 00:23:22,810
+roadmap? Here's a couple of
+better questions, right? And
+
+393
+00:23:22,810 --> 00:23:25,810
+instead of how are you going to
+get more productivity out of our
+
+394
+00:23:25,810 --> 00:23:29,650
+development team, whipping them
+harder? Here's an alternative.
+
+395
+00:23:30,400 --> 00:23:34,120
+Right? Likewise, instead of
+asking, Are you a subject
+
+396
+00:23:34,120 --> 00:23:38,110
+expert? Have you worked in our
+exact tech segment and already
+
+397
+00:23:38,110 --> 00:23:41,830
+know what customers want? Wrong?
+Here's a couple of ways you
+
+398
+00:23:41,830 --> 00:23:43,630
+might unpack that in an
+interview.
+
+399
+00:23:44,530 --> 00:23:48,940
+And then one last one. I'm not a
+fan of Net Promoter Score,
+
+400
+00:23:48,940 --> 00:23:51,790
+because it's pretty random and
+doesn't give us much information
+
+401
+00:23:51,790 --> 00:23:56,170
+and it's easy to manipulate. So
+here's a few better questions,
+
+402
+00:23:56,170 --> 00:23:59,620
+then NPS score to figure out how
+we're going to understand what
+
+403
+00:23:59,620 --> 00:24:02,980
+our customers are doing. Okay, I
+want to leave a lot of time for
+
+404
+00:24:02,980 --> 00:24:07,810
+questions. So let's go to a few
+takeaways. Right? Got to have a
+
+405
+00:24:07,810 --> 00:24:10,660
+treat at the end. Everybody got
+to the end. Here's your treat.
+
+406
+00:24:11,500 --> 00:24:14,440
+So here's our three things,
+right. And if we were in the
+
+407
+00:24:14,440 --> 00:24:17,890
+hall together in Boston, I might
+actually ask everybody to stand
+
+408
+00:24:17,890 --> 00:24:21,340
+up and repeat this. But I think
+you can do that in the privacy
+
+409
+00:24:21,340 --> 00:24:24,220
+of your own desks here. Right?
+Product management experience,
+
+410
+00:24:24,220 --> 00:24:28,900
+product leadership experience.
+Before subject market technical
+
+411
+00:24:28,900 --> 00:24:32,530
+specifics, right? Please, Oh,
+please, oh, please, don't bring
+
+412
+00:24:32,530 --> 00:24:34,210
+in somebody just because they
+know your tech.
+
+413
+00:24:36,280 --> 00:24:39,280
+The thing we do, how do we add
+value? Why do we care? Why does
+
+414
+00:24:39,280 --> 00:24:42,610
+anybody else care? It's because
+often the product management
+
+415
+00:24:42,610 --> 00:24:45,460
+team and therefore the product
+management leader, are the
+
+416
+00:24:45,460 --> 00:24:48,790
+people balancing long term
+scratch strategy against current
+
+417
+00:24:48,790 --> 00:24:55,150
+quarter execution. And we are
+endlessly battling the fight of
+
+418
+00:24:55,810 --> 00:24:59,140
+should we do this one special
+little thing for this one big
+
+419
+00:24:59,140 --> 00:25:03,430
+customer who promises never to
+ask us anything else again, at
+
+420
+00:25:03,430 --> 00:25:07,180
+least until later in the day? Or
+are we going to let the entire
+
+421
+00:25:07,180 --> 00:25:11,020
+development team be diverted to
+whatever three or four shiny
+
+422
+00:25:11,020 --> 00:25:15,850
+objects have come up in today's
+sales calls? And then, you know,
+
+423
+00:25:15,880 --> 00:25:19,210
+what do we do leadership skills,
+things we need, right? We need
+
+424
+00:25:19,210 --> 00:25:23,290
+to be able to keep the rest of
+the executive team focused. not
+
+425
+00:25:23,290 --> 00:25:23,860
+trivial.
+
+426
+00:25:24,130 --> 00:25:28,390
+We need to keep our eyes on the
+market success, the segments,
+
+427
+00:25:28,690 --> 00:25:32,410
+the larger picture, not single
+accounts, we got to spend a
+
+428
+00:25:32,410 --> 00:25:35,590
+tremendous amount of time
+understanding and loving all of
+
+429
+00:25:35,590 --> 00:25:39,160
+our peers across all the
+organizations. And then last of
+
+430
+00:25:39,160 --> 00:25:43,120
+all, back to our puppy photo.
+We've got to raise those young
+
+431
+00:25:43,120 --> 00:25:47,650
+uns, those soon to be product
+managers, mentoring, tutoring,
+
+432
+00:25:47,830 --> 00:25:50,290
+teaching them how to do it,
+cleaning up the carpet as
+
+433
+00:25:50,290 --> 00:25:53,500
+necessary. So that's the things
+I think we're looking for in a
+
+434
+00:25:53,500 --> 00:25:58,240
+head of product. And I hope that
+that helps us helps you with a
+
+435
+00:25:58,240 --> 00:26:00,550
+better frame around that. And
+then just circling back to
+
+436
+00:26:00,550 --> 00:26:03,040
+Mark's point from the very
+beginning, you could apply this
+
+437
+00:26:03,040 --> 00:26:06,850
+to any of your functions. I just
+happen to tell it as a product
+
+438
+00:26:06,850 --> 00:26:10,870
+leadership story, because that's
+my part of the problem. All
+
+439
+00:26:10,870 --> 00:26:13,390
+right, here's how to find me.
+That's the website. That's the
+
+440
+00:26:13,390 --> 00:26:16,300
+email. That's the Twitter
+handle. Anybody notice it's hard
+
+441
+00:26:16,300 --> 00:26:17,980
+to spell, but it's all the same?
+
+442
+00:26:20,350 --> 00:26:22,150
+Let's have a little round of
+applause first.
+
+443
+00:26:22,690 --> 00:26:31,600
+I'll pick a few of these off the
+chat, just start. Anybody wants
+
+444
+00:26:31,600 --> 00:26:35,800
+to break in with with the audio
+later. So so lots of good
+
+445
+00:26:35,800 --> 00:26:36,370
+questions.
+
+446
+00:26:36,370 --> 00:26:39,730
+I'm going to start with with the
+top one from from Brian: these
+
+447
+00:26:39,730 --> 00:26:42,310
+issues have existed since the
+beginning of software product
+
+448
+00:26:42,670 --> 00:26:46,990
+businesses. Why is it so hard to
+solve? I think part of it is
+
+449
+00:26:46,990 --> 00:26:50,920
+that most of what product
+management does is sort of
+
+450
+00:26:50,920 --> 00:26:54,160
+transparent, right? When it's
+working, you don't see it. And
+
+451
+00:26:54,160 --> 00:26:57,580
+when it's broken, you're usually
+miss attributing it. So most of
+
+452
+00:26:57,580 --> 00:27:01,600
+the calls I get are from CEOs
+who tell me their engineering
+
+453
+00:27:01,600 --> 00:27:06,010
+team doesn't work hard enough or
+isn't productive or is lazy. And
+
+454
+00:27:06,010 --> 00:27:09,940
+then when we open the box, we
+figure out that there's no goals
+
+455
+00:27:09,940 --> 00:27:13,420
+for the company, or they're in
+complete conflict. And the CEO
+
+456
+00:27:13,510 --> 00:27:18,160
+comes down no more frequently
+than let's say, every 25 minutes
+
+457
+00:27:18,190 --> 00:27:20,710
+to the development organization
+with a new number one priority.
+
+458
+00:27:21,070 --> 00:27:24,490
+And they're dejected and
+frustrated. And what they really
+
+459
+00:27:24,490 --> 00:27:27,940
+need more than anything else is
+a product management team,
+
+460
+00:27:27,940 --> 00:27:30,880
+especially a head of product,
+that's the semi permeable
+
+461
+00:27:30,880 --> 00:27:34,540
+membrane, the funnel, the
+umbrella, such that the rest of
+
+462
+00:27:34,540 --> 00:27:37,960
+the company has to go through
+something painful, before we can
+
+463
+00:27:37,960 --> 00:27:40,510
+interrupt what we've already
+agreed to be in the sprint.
+
+464
+00:27:40,540 --> 00:27:44,650
+So that's not the obvious skill.
+Everybody thinks about writing
+
+465
+00:27:44,650 --> 00:27:48,460
+user stories. Honestly, I don't
+care about user stories, and I
+
+466
+00:27:48,460 --> 00:27:52,330
+don't care what format we have
+them in. Turns out a
+
+467
+00:27:52,330 --> 00:27:56,110
+grammatically correct user story
+is usually probably still the
+
+468
+00:27:56,110 --> 00:27:58,510
+wrong thing we should build.
+It's not the grammar we want to
+
+469
+00:27:58,510 --> 00:28:02,020
+check. It's whether we did our
+homework and truly understand
+
+470
+00:28:02,020 --> 00:28:07,000
+our customers, which is hard to
+see. So the other thing, the
+
+471
+00:28:07,000 --> 00:28:09,520
+failure mode here is a lot of
+folks have never been at a
+
+472
+00:28:09,520 --> 00:28:13,240
+company where product management
+was any darn good. And so they
+
+473
+00:28:13,240 --> 00:28:15,670
+don't have a model in their head
+what we're supposed to do.
+
+474
+00:28:16,480 --> 00:28:20,530
+Okay, good. Tim Burgess: How do
+you build consensus or strength
+
+475
+00:28:20,560 --> 00:28:23,740
+of your voice when the other
+executives are ostensibly more
+
+476
+00:28:23,740 --> 00:28:25,990
+important? or higher profile?
+
+477
+00:28:27,010 --> 00:28:31,690
+Really good question. I think of
+every good product manager, as a
+
+478
+00:28:31,690 --> 00:28:35,260
+student of human behavior,
+right? We've all read Dale
+
+479
+00:28:35,260 --> 00:28:38,320
+Carnegie's book from the 1920s,
+about how to make friends and
+
+480
+00:28:38,320 --> 00:28:41,410
+influence people, we all
+understand what the different
+
+481
+00:28:41,410 --> 00:28:44,620
+departments value and how
+they're measured. We think a lot
+
+482
+00:28:44,620 --> 00:28:49,870
+about motivations and goals and
+alignment. And so for instance,
+
+483
+00:28:50,020 --> 00:28:53,260
+the way I talk, the marketing
+and sales side of the house,
+
+484
+00:28:53,260 --> 00:28:56,380
+through my roadmap, is entirely
+different than the way I'd go
+
+485
+00:28:56,380 --> 00:28:59,620
+through it with my engineering
+team. It's the same roadmap. But
+
+486
+00:28:59,620 --> 00:29:03,340
+on the sales side, we're almost
+all talking about who it's for,
+
+487
+00:29:04,180 --> 00:29:08,020
+why they want it, and how can we
+should be able to get full price
+
+488
+00:29:08,020 --> 00:29:10,210
+for it. Whereas on the
+engineering side, we're talking
+
+489
+00:29:10,210 --> 00:29:13,480
+a lot more about the inner
+workings of the problems we're
+
+490
+00:29:13,480 --> 00:29:17,110
+solving. So there's a lot of
+channeling the different
+
+491
+00:29:17,320 --> 00:29:20,170
+audiences and what they need.
+And then there's a tremendous
+
+492
+00:29:20,170 --> 00:29:24,340
+amount of honestly, horse
+trading and alignment here.
+
+493
+00:29:25,000 --> 00:29:28,330
+Many of you know this, but every
+single person in your support
+
+494
+00:29:28,330 --> 00:29:32,950
+organization expects to get 100%
+of developments effort against
+
+495
+00:29:32,950 --> 00:29:37,000
+fixing bugs. And everybody in
+your sales organization expects
+
+496
+00:29:37,030 --> 00:29:41,230
+engineering to spend 100% of
+their effort on whatever these
+
+497
+00:29:41,230 --> 00:29:45,280
+new deals need. And your success
+team wants 100% of their effort
+
+498
+00:29:45,280 --> 00:29:48,640
+against simpler workflows and
+better onboarding. And your
+
+499
+00:29:48,640 --> 00:29:51,970
+engineering team wants to spend
+80% on fixing your tech debt and
+
+500
+00:29:52,120 --> 00:29:55,240
+doing factoring. So there's
+actually no way to get to a good
+
+501
+00:29:55,240 --> 00:30:00,040
+answer here. Unless we set up
+some you know allocations in
+
+502
+00:30:00,040 --> 00:30:03,250
+agreements about how we're going
+to work here. So I spend a lot
+
+503
+00:30:03,250 --> 00:30:06,100
+of my time trying to get
+consensus on how we're going to
+
+504
+00:30:06,100 --> 00:30:10,060
+spend our general money before
+we fall down the rabbit hole of
+
+505
+00:30:10,060 --> 00:30:11,920
+tickets. Okay.
+
+506
+00:30:13,180 --> 00:30:16,900
+David Carta: what order would
+you hire people beyond founders,
+
+507
+00:30:16,900 --> 00:30:19,030
+CFO, product manager, VP sales.
+
+508
+00:30:19,870 --> 00:30:23,440
+That's a hard one. Because
+usually the founders come from
+
+509
+00:30:23,830 --> 00:30:27,670
+some side, if they're
+technologists, I probably want
+
+510
+00:30:27,670 --> 00:30:31,570
+to get maybe an early business
+development person as opposed to
+
+511
+00:30:31,570 --> 00:30:34,750
+a salesperson. Because for the
+first year, honestly, we don't
+
+512
+00:30:34,750 --> 00:30:36,970
+know what we're selling. And
+we're going to have to take our
+
+513
+00:30:36,970 --> 00:30:41,230
+word back a few times, I usually
+expect a company a startup to
+
+514
+00:30:41,230 --> 00:30:45,790
+hire its first full time product
+manager, and about 12 people.
+
+515
+00:30:46,450 --> 00:30:49,090
+Because then by then you've got
+a development team and
+
+516
+00:30:49,090 --> 00:30:52,360
+engineering team of six or
+seven, that's enough to justify
+
+517
+00:30:52,360 --> 00:30:55,690
+a product manager, I don't
+really see a head of product or
+
+518
+00:30:55,690 --> 00:31:02,320
+VP of product until we get to, I
+don't know 3035. Because there's
+
+519
+00:31:02,320 --> 00:31:05,530
+just not enough scope there. If
+I come in as the head of product
+
+520
+00:31:05,530 --> 00:31:09,640
+at a 12 person company, I have
+to be also willing to do all the
+
+521
+00:31:09,640 --> 00:31:13,510
+individual contributor work,
+which is fine, but not everybody
+
+522
+00:31:13,510 --> 00:31:15,220
+is willing to do that. Okay.
+
+523
+00:31:17,050 --> 00:31:20,590
+That's a great question from Go
+ahead. And Mark Davis wants to
+
+524
+00:31:20,590 --> 00:31:24,580
+ask the CEO to validate they do
+in fact, want to give up the
+
+525
+00:31:24,580 --> 00:31:25,150
+reins.
+
+526
+00:31:26,560 --> 00:31:31,210
+This is hard, because almost
+every CEO will say yes to that.
+
+527
+00:31:33,940 --> 00:31:35,110
+Really no, right?
+
+528
+00:31:35,110 --> 00:31:38,770
+That's right, in practice, so
+I'm not sure there's a question
+
+529
+00:31:38,770 --> 00:31:44,770
+I asked the CEO directly. Advice
+I give to folks in every job: if
+
+530
+00:31:44,770 --> 00:31:48,670
+you're interviewing for a job at
+a company is find some folks who
+
+531
+00:31:48,670 --> 00:31:52,840
+work at the company who are not
+on the interview roster, get
+
+532
+00:31:52,840 --> 00:31:55,540
+into LinkedIn figured out who
+you know, or who you're
+
+533
+00:31:55,570 --> 00:31:59,590
+connected, one hop away from. In
+a better time, I would have said
+
+534
+00:31:59,590 --> 00:32:03,550
+take them out to breakfast. But
+right now, it's virtual coffee,
+
+535
+00:32:03,760 --> 00:32:07,180
+and ask a lot of questions about
+the company. Because first of
+
+536
+00:32:07,180 --> 00:32:09,610
+all, you want to learn about the
+company before you get too far
+
+537
+00:32:09,610 --> 00:32:10,660
+in the interview cycle.
+
+538
+00:32:10,960 --> 00:32:15,700
+But a question I always ask or
+some variation is, would you
+
+539
+00:32:15,700 --> 00:32:20,260
+recommend a good friend of yours
+work at this company? Surprising
+
+540
+00:32:20,260 --> 00:32:24,610
+how often that answer is no. How
+about did the CEO have a bad
+
+541
+00:32:24,610 --> 00:32:29,140
+childhood? Often? That's it.
+Yes. Right? Well, what we're
+
+542
+00:32:29,140 --> 00:32:32,140
+looking we're looking for here
+is somebody who's not
+
+543
+00:32:32,140 --> 00:32:35,380
+sufficiently biased by being in
+the interview cycle, which means
+
+544
+00:32:35,380 --> 00:32:39,010
+they're trying to sell me on the
+job and figure out if I'm
+
+545
+00:32:39,010 --> 00:32:42,760
+selling hard enough, but find
+somebody whose objective is
+
+546
+00:32:42,760 --> 00:32:44,650
+going to tell you what's going
+on, what are the company
+
+547
+00:32:44,650 --> 00:32:48,130
+problems? How are they doing?
+Are there layoffs coming? Just
+
+548
+00:32:48,130 --> 00:32:52,060
+does this person get joy coming
+into the office? Because I find
+
+549
+00:32:52,060 --> 00:32:55,000
+when you could answer get good
+answers to that your CEO is most
+
+550
+00:32:55,000 --> 00:32:58,150
+likely doing a lot of the right
+things. And there's a good
+
+551
+00:32:58,150 --> 00:33:00,820
+chance that that head of product
+is going to be allowed to
+
+552
+00:33:00,820 --> 00:33:05,830
+succeed. I would say half the
+time on those discussions. What
+
+553
+00:33:05,830 --> 00:33:10,300
+I hear back from people is, huh,
+huh? Can we take that one
+
+554
+00:33:10,300 --> 00:33:14,230
+offline? And no, I wouldn't
+recommend that my best friend
+
+555
+00:33:14,230 --> 00:33:17,980
+take a job here. Right? You
+don't want to work there. Move
+
+556
+00:33:17,980 --> 00:33:22,780
+on. There's other jobs. Okay,
+how about one other one? Should
+
+557
+00:33:22,780 --> 00:33:24,520
+I just pick one out? Or if
+there's somebody who wants to
+
+558
+00:33:24,520 --> 00:33:26,260
+come in on audio? That would be
+fun?
+
+559
+00:33:27,210 --> 00:33:31,020
+I think yeah, let's find someone
+that wants to come in on audio.
+
+560
+00:33:32,680 --> 00:33:36,310
+So I find that in a lot of
+companies, the head of product
+
+561
+00:33:36,310 --> 00:33:39,940
+means a lot of things. And
+sometimes it's like, encroaching
+
+562
+00:33:39,940 --> 00:33:43,450
+across everything in the
+company. And it's like owning
+
+563
+00:33:43,450 --> 00:33:47,110
+the customer. And I don't know
+why. But so I just want to
+
+564
+00:33:47,110 --> 00:33:50,800
+clarify and have some opinion
+from you. Like, what are the
+
+565
+00:33:50,830 --> 00:33:54,160
+what should be the
+accountabilities of the head of
+
+566
+00:33:54,160 --> 00:33:56,680
+product or the accountabilities
+of the product function?
+
+567
+00:33:56,950 --> 00:34:00,100
+Yeah, and this is hard, because
+none of the things that Product
+
+568
+00:34:00,100 --> 00:34:05,380
+Management delivers are direct
+customer consumables, right? And
+
+569
+00:34:05,410 --> 00:34:08,590
+products not actually in control
+of any almost any of the
+
+570
+00:34:08,590 --> 00:34:13,360
+resources in the company. It's
+hard to pin either success or
+
+571
+00:34:13,360 --> 00:34:17,500
+failure directly on product. So
+I look for a lot of of secondary
+
+572
+00:34:17,500 --> 00:34:20,890
+things. Does everybody in the
+company really understand what's
+
+573
+00:34:20,890 --> 00:34:25,690
+on the roadmap? Are we selling
+to the right segments? Are we
+
+574
+00:34:25,690 --> 00:34:28,840
+mostly able to prop up our
+prices and sell for something
+
+575
+00:34:28,840 --> 00:34:34,480
+near list price? A good
+secondary thing is that sales
+
+576
+00:34:34,480 --> 00:34:39,040
+doesn't hate engineering. And
+engineering doesn't hate sales.
+
+577
+00:34:39,250 --> 00:34:41,950
+Because by the way, if that's
+the case, product either can't
+
+578
+00:34:41,950 --> 00:34:45,430
+succeed, or has failed
+miserably, right. So notice,
+
+579
+00:34:45,430 --> 00:34:48,640
+those are all sort of
+interstitial things. Do we have
+
+580
+00:34:48,640 --> 00:34:52,060
+a product strategy that we stick
+to? Again, you can knock that
+
+581
+00:34:52,060 --> 00:34:55,420
+down from almost any department,
+but if product succeeding those
+
+582
+00:34:55,420 --> 00:34:58,720
+are things that everybody
+immediately says yes to. And so
+
+583
+00:34:58,720 --> 00:35:03,220
+the head of product is as much
+intent internal salesperson for
+
+584
+00:35:03,220 --> 00:35:06,220
+clarity and strategy and
+segmentation in targeting and
+
+585
+00:35:06,220 --> 00:35:10,900
+staying on focus as anything
+else. Thanks. Sure.
+
+586
+00:35:10,930 --> 00:35:15,040
+So Peldi asked a question, which
+was skelding. Any tips for
+
+587
+00:35:15,040 --> 00:35:18,820
+founders, CEOs to delegate Head
+of Product responsibilities?
+
+588
+00:35:18,820 --> 00:35:22,720
+Probably being unusually shy
+today?
+
+589
+00:35:23,020 --> 00:35:28,480
+Yeah. I don't know why Peldi.
+But I think the that is the
+
+590
+00:35:28,480 --> 00:35:32,020
+right question, which is, can I
+feel comfortable enough
+
+591
+00:35:32,050 --> 00:35:35,410
+delegating to the head of
+product. And generally, the
+
+592
+00:35:35,500 --> 00:35:40,960
+failure mode here is around the
+CEO believing that they are in
+
+593
+00:35:40,960 --> 00:35:46,030
+fact sampling the customer base
+adequately, and that I know what
+
+594
+00:35:46,030 --> 00:35:49,150
+customers want, because I'm
+talking to a lot of customers.
+
+595
+00:35:49,450 --> 00:35:53,200
+And the reason that doesn't hold
+up is because at least at this
+
+596
+00:35:53,200 --> 00:35:56,290
+stage, almost all the
+conversations that the CEO is
+
+597
+00:35:56,290 --> 00:35:59,470
+having with customers are
+pushed, they're selling, they're
+
+598
+00:35:59,470 --> 00:36:03,550
+trying to get somebody to agree.
+And what you do when you listen
+
+599
+00:36:03,550 --> 00:36:07,090
+to those calls with the CEO is
+you find out the CEO is talking
+
+600
+00:36:07,510 --> 00:36:12,010
+70% or 80% of the time, which is
+a sales call. And the folks at
+
+601
+00:36:12,010 --> 00:36:14,590
+the other end are either
+politely listening or raising
+
+602
+00:36:14,590 --> 00:36:17,500
+small objections. But they're
+not really saying what they
+
+603
+00:36:17,500 --> 00:36:21,790
+think the other thing that CEOs
+and founders get is they get the
+
+604
+00:36:22,090 --> 00:36:26,890
+rapid escalations from the few
+large customers of random things
+
+605
+00:36:26,890 --> 00:36:30,310
+they're unhappy about. And so
+they decide that all customers
+
+606
+00:36:30,310 --> 00:36:33,130
+are having this problem, because
+they're sampling badly, right.
+
+607
+00:36:33,280 --> 00:36:36,730
+And so, as a head of product,
+what I need is some agreement
+
+608
+00:36:36,730 --> 00:36:41,740
+from the CEO, that if I can show
+data, if my team is interviewing
+
+609
+00:36:41,770 --> 00:36:45,670
+40 customers a month or 90
+customers a month, that we're
+
+610
+00:36:45,670 --> 00:36:50,050
+going to get believed that when
+we identify that 65% of the
+
+611
+00:36:50,050 --> 00:36:53,950
+customers have an issue, but
+it's not the one that CEO heard
+
+612
+00:36:53,950 --> 00:36:57,400
+about this morning, that we're
+gonna get a hearing on that and
+
+613
+00:36:57,400 --> 00:37:01,240
+facts matter. And that's really
+hard emotionally for the CEO,
+
+614
+00:37:01,240 --> 00:37:04,780
+because, you know, we're all the
+center of our universes. And we
+
+615
+00:37:04,780 --> 00:37:10,450
+believe that what we're seeing
+is a you know, an effective and
+
+616
+00:37:10,690 --> 00:37:11,980
+well sampled pattern.
+
+617
+00:37:16,610 --> 00:37:20,870
+Okay, I'm gonna pick one more,
+Tim, we got from Tim, how about
+
+618
+00:37:20,870 --> 00:37:24,020
+Elizabeth Aveda: when should a
+company hire it's first product
+
+619
+00:37:24,020 --> 00:37:26,000
+manager? I think we touched
+that, you know, again, I'm
+
+620
+00:37:26,000 --> 00:37:29,660
+thinking like 12 employees, 14
+employees.
+
+621
+00:37:31,070 --> 00:37:35,720
+Let's see what we got. Igor
+says: In what form is
+
+622
+00:37:35,720 --> 00:37:38,180
+understanding the customer
+captured? Is it just in a
+
+623
+00:37:38,180 --> 00:37:41,510
+product managers head, this is a
+really hard problem, because
+
+624
+00:37:41,510 --> 00:37:45,470
+it's rather unstructured. One of
+the ways I coach my heads of
+
+625
+00:37:45,470 --> 00:37:49,370
+product and product managers is,
+first of all, every time we
+
+626
+00:37:49,370 --> 00:37:53,150
+interview a customer, assuming
+it's not a sales call, I want to
+
+627
+00:37:53,150 --> 00:37:56,930
+include on the call a designer
+and developer. Now, they
+
+628
+00:37:56,930 --> 00:38:00,950
+probably don't talk, I run the
+interview. But it's very clear,
+
+629
+00:38:00,950 --> 00:38:03,740
+they hear different things than
+I do, and they listen for
+
+630
+00:38:03,830 --> 00:38:04,730
+different things.
+
+631
+00:38:05,120 --> 00:38:08,360
+And we usually have some regime
+where either they write me a
+
+632
+00:38:08,360 --> 00:38:11,630
+post it note, or they drop me a
+Slack message on the side for
+
+633
+00:38:11,630 --> 00:38:15,050
+questions I'm missing, right, we
+might have an hour's
+
+634
+00:38:15,050 --> 00:38:18,710
+conversation with a customer. So
+we're going to capture that
+
+635
+00:38:18,710 --> 00:38:20,660
+we're gonna record it with
+permission, of course, don't
+
+636
+00:38:20,660 --> 00:38:23,210
+want to break the law, we're
+going to put that in a
+
+637
+00:38:23,210 --> 00:38:27,110
+repository. But right next to
+it. At the very end of the call,
+
+638
+00:38:27,110 --> 00:38:30,530
+as soon as we're done before it
+falls out of our heads, we're
+
+639
+00:38:30,530 --> 00:38:34,460
+going to among ourselves, pick
+the three or four or five
+
+640
+00:38:34,460 --> 00:38:38,450
+takeaways, lessons, interesting
+things, put them in bullets at
+
+641
+00:38:38,450 --> 00:38:42,470
+the very top, and send around to
+the rest of the company, the
+
+642
+00:38:42,470 --> 00:38:46,130
+three bullets and a link to the
+recording. That's important
+
+643
+00:38:46,130 --> 00:38:48,980
+because we do it right away. So
+a recency bias isn't going to
+
+644
+00:38:48,980 --> 00:38:52,280
+get us in trouble. It helps
+because the rest of the company
+
+645
+00:38:52,490 --> 00:38:55,910
+starts to notice that the
+product team actually talks to
+
+646
+00:38:55,910 --> 00:38:57,410
+customers all the time.
+
+647
+00:38:57,830 --> 00:39:00,890
+And then, in general, I find
+that we don't know the right
+
+648
+00:39:00,890 --> 00:39:05,180
+questions until 10 interviews in
+or 15 interviews and we have to
+
+649
+00:39:05,180 --> 00:39:08,750
+go back and read our notes.
+Because something popped up in
+
+650
+00:39:08,750 --> 00:39:12,950
+five of those conversations,
+that was so bizarre, that we
+
+651
+00:39:12,950 --> 00:39:15,170
+never even thought to ask and
+we're going to go back to our
+
+652
+00:39:15,170 --> 00:39:18,350
+notes back to our recordings,
+and figure out if it was a
+
+653
+00:39:18,350 --> 00:39:21,770
+pattern. So that's a way that we
+can share them out, get this
+
+654
+00:39:21,770 --> 00:39:24,560
+summary to the rest of the
+world. And anybody who needs to
+
+655
+00:39:24,560 --> 00:39:29,510
+dig deep configure out which
+transcript or recording is going
+
+656
+00:39:29,510 --> 00:39:31,190
+to have the detailed stuff in
+it.
+
+657
+00:39:32,540 --> 00:39:35,870
+Hey, thanks for just a great
+talk and answering so many
+
+658
+00:39:35,870 --> 00:39:37,730
+questions generously. I was
+wondering if you could talk a
+
+659
+00:39:37,730 --> 00:39:41,180
+little bit more about the
+smokejumper role and outside the
+
+660
+00:39:41,180 --> 00:39:45,200
+context of just fighting a
+burning fire but also like as a
+
+661
+00:39:45,470 --> 00:39:49,880
+transition or even alternative
+to hiring a full time w two
+
+662
+00:39:49,880 --> 00:39:50,420
+executive.
+
+663
+00:39:50,750 --> 00:39:54,500
+Yeah, so I've done about a dozen
+of those. And every time I
+
+664
+00:39:54,500 --> 00:39:58,910
+promised myself not to do it
+again. Because honestly, they're
+
+665
+00:39:58,940 --> 00:40:01,700
+they're really hard and
+irrationally painful. And it
+
+666
+00:40:01,700 --> 00:40:06,830
+does borrow from the firefighter
+terminology because the, the
+
+667
+00:40:06,860 --> 00:40:09,380
+smoke jumpers are the ones who
+are parachuted on the far side
+
+668
+00:40:09,380 --> 00:40:12,620
+of the fire, to knock down all
+the fuel, and they don't get to
+
+669
+00:40:12,620 --> 00:40:15,620
+go home, smelly and tired and
+smoky until they fought their
+
+670
+00:40:15,620 --> 00:40:21,080
+way back through the fire. I
+don't advise anyone to do this,
+
+671
+00:40:21,080 --> 00:40:24,680
+if they have a choice. You're
+bringing in an outsider who
+
+672
+00:40:24,680 --> 00:40:27,350
+doesn't know the company and
+doesn't know the product, I'm
+
+673
+00:40:27,350 --> 00:40:30,290
+generally much more effective in
+that first quarter, or quarter
+
+674
+00:40:30,290 --> 00:40:33,350
+and a half. And fixing
+organizational issues, and
+
+675
+00:40:33,350 --> 00:40:37,250
+process issues and goal issues,
+I'm never gonna be smart enough
+
+676
+00:40:37,250 --> 00:40:41,120
+about your product in three
+months, to really have strong
+
+677
+00:40:41,120 --> 00:40:43,400
+opinions about the product
+details.
+
+678
+00:40:43,490 --> 00:40:48,140
+So generally, I'm called in when
+it's really broken. And I want
+
+679
+00:40:48,140 --> 00:40:50,480
+to leave as soon as possible.
+And the company wants me to help
+
+680
+00:40:50,480 --> 00:40:54,950
+them hiring a replacement as
+soon as possible. Because every
+
+681
+00:40:54,950 --> 00:40:57,950
+company deserves a full time
+head of product, who has the
+
+682
+00:40:57,950 --> 00:41:02,090
+long term understands the trade
+offs, loves the customers with
+
+683
+00:41:02,090 --> 00:41:06,230
+all their heart and soul, and
+understands how to move the
+
+684
+00:41:06,230 --> 00:41:09,380
+other executive players around
+the board. So we get the right
+
+685
+00:41:09,380 --> 00:41:12,830
+things built and shipped. And
+that's a lot of internal
+
+686
+00:41:12,830 --> 00:41:14,930
+discovery. It's a lot of
+relationship building.
+
+687
+00:41:16,190 --> 00:41:18,830
+The one dirty secret here, which
+since we're recording
+
+688
+00:41:18,830 --> 00:41:22,910
+everybody's going to know is as
+the interim, here's here's my
+
+689
+00:41:22,910 --> 00:41:26,120
+other office manager, by the
+way, as the interim head of
+
+690
+00:41:26,150 --> 00:41:29,330
+product, I can say and do things
+that no full time employee would
+
+691
+00:41:29,330 --> 00:41:34,100
+ever say or do. I can be as
+blunt with the CEO and pull them
+
+692
+00:41:34,100 --> 00:41:36,710
+aside for coaching about things
+that you would never do if you
+
+693
+00:41:36,710 --> 00:41:39,950
+want to keep your job, because
+I'm leaving anyway. And there's
+
+694
+00:41:39,950 --> 00:41:43,670
+no stock options for me. And
+there's no bonus for me. My job
+
+695
+00:41:43,670 --> 00:41:47,120
+is to clean it up and get the
+heck out. And so I have a lot
+
+696
+00:41:47,120 --> 00:41:51,080
+more freedom of movement. But
+for a limited time, because you
+
+697
+00:41:51,080 --> 00:41:54,020
+don't get away with that for
+more than a quarter or two. And
+
+698
+00:41:54,140 --> 00:41:58,010
+I'm usually burned out by then
+anyway, so time to go home. I
+
+699
+00:41:58,010 --> 00:42:01,640
+can't I can't tell you that
+that's something you would love.
+
+700
+00:42:02,480 --> 00:42:04,220
+But it's strong medicine when
+you need it.
+
+701
+00:42:10,490 --> 00:42:14,390
+Well, that was actually a reason
+for picking on picking on Jeff.
+
+702
+00:42:14,990 --> 00:42:21,320
+He asked that question earlier
+on about relative roles, or
+
+703
+00:42:21,380 --> 00:42:26,690
+roles of head of product versus
+some of the other bits of the
+
+704
+00:42:26,690 --> 00:42:28,730
+team. Jeff, do you want to
+speak?
+
+705
+00:42:29,000 --> 00:42:33,260
+The question that Tomas asked in
+rich well answered to pretty
+
+706
+00:42:33,260 --> 00:42:37,400
+much covered the majority of
+that, like from the standpoint
+
+707
+00:42:37,400 --> 00:42:40,850
+that? Yeah, I think there's this
+really interesting thing where
+
+708
+00:42:40,850 --> 00:42:43,400
+this sort of there's these
+accountabilities, probably the
+
+709
+00:42:43,460 --> 00:42:47,270
+the product team typically has
+that there is responsibilities
+
+710
+00:42:47,270 --> 00:42:49,910
+are tough to fall through. And,
+again, I thought rich painted it
+
+711
+00:42:49,910 --> 00:42:51,620
+really well. Maybe the only
+thing I would add, there was the
+
+712
+00:42:51,620 --> 00:42:54,200
+other nuance was, yeah, if we
+were just complete a more
+
+713
+00:42:54,200 --> 00:42:59,810
+organizational picture. And that
+same sort of vein, what then is
+
+714
+00:42:59,810 --> 00:43:02,630
+the accountabilities of, say
+engineering and maybe marketing
+
+715
+00:43:02,630 --> 00:43:05,690
+in this role of figuring out the
+product. Conversely, to it Rich
+
+716
+00:43:05,690 --> 00:43:07,730
+said, because there's this
+interesting trend, where some
+
+717
+00:43:07,730 --> 00:43:10,010
+people have talked about how
+product management is a
+
+718
+00:43:10,010 --> 00:43:12,890
+separate, not as a role. It's
+obviously a very important role
+
+719
+00:43:12,890 --> 00:43:15,290
+in the company to, to focus on
+these accountabilities. But
+
+720
+00:43:15,290 --> 00:43:19,280
+that, as a separate vertical
+department in a company is a
+
+721
+00:43:19,340 --> 00:43:23,030
+could be a little problematic.
+In other words, why isn't
+
+722
+00:43:23,030 --> 00:43:25,340
+product considered part of the
+engineering organization, for
+
+723
+00:43:25,340 --> 00:43:27,620
+example, an organization right.
+
+724
+00:43:27,680 --> 00:43:30,560
+And the challenge, if you have a
+13 person company, you can't
+
+725
+00:43:30,560 --> 00:43:34,700
+have I mean, 13 departments, but
+I observe that the engineering
+
+726
+00:43:34,700 --> 00:43:39,020
+team is really measured and
+rewarded by getting things done.
+
+727
+00:43:40,160 --> 00:43:42,320
+But they're not measured and
+rewarded for getting the right
+
+728
+00:43:42,320 --> 00:43:45,620
+things done. And it's not their
+competency to make that call.
+
+729
+00:43:45,890 --> 00:43:50,330
+And on the marketing side, in a
+good company, we've got a
+
+730
+00:43:50,330 --> 00:43:53,000
+product focus one. And so
+marketing is really focusing on
+
+731
+00:43:53,000 --> 00:43:57,800
+the outbound positioning and
+segmentation, and nurturing and
+
+732
+00:43:57,800 --> 00:44:00,740
+all the things that are that are
+core to marketing. In general,
+
+733
+00:44:00,740 --> 00:44:05,030
+the marketing folks are a little
+lightweight in terms of product
+
+734
+00:44:05,030 --> 00:44:08,930
+knowledge and internals. When we
+have marketing folks spec out
+
+735
+00:44:08,930 --> 00:44:12,560
+products, we have really good
+UX, but nothing under the hood,
+
+736
+00:44:12,770 --> 00:44:15,290
+soy, soy products sort of
+halfway between. But in every
+
+737
+00:44:15,290 --> 00:44:17,810
+organization, we draw the line
+in a different place. There's no
+
+738
+00:44:17,810 --> 00:44:22,400
+perfect, and it's so much about
+how the different execs are
+
+739
+00:44:22,400 --> 00:44:25,940
+going to divide up the world
+where they are the work in a way
+
+740
+00:44:25,940 --> 00:44:30,200
+that everybody can get along and
+the fistfights in the alleys or
+
+741
+00:44:30,200 --> 00:44:35,720
+the the aisles of the office are
+minimized. One last thought and
+
+742
+00:44:35,720 --> 00:44:36,440
+then I'll close.
+
+743
+00:44:37,640 --> 00:44:41,360
+We've got a few more questions.
+Emily. Emily, could you just say
+
+744
+00:44:41,360 --> 00:44:41,990
+something.
+
+745
+00:44:45,620 --> 00:44:50,360
+I don't reload because people
+get distracted but yeah, there
+
+746
+00:44:50,360 --> 00:44:54,200
+we go. That's my background
+everybody. Self esteem boost for
+
+747
+00:44:54,200 --> 00:44:54,590
+the day.
+
+748
+00:44:55,610 --> 00:45:00,020
+For Emily, there's a couple of
+questions and then quite a few
+
+749
+00:45:00,020 --> 00:45:03,380
+You're different people asking
+about early stage companies,
+
+750
+00:45:03,380 --> 00:45:09,290
+Nick mer or Ben Ebong. Do you
+want to pipe up and talk about
+
+751
+00:45:09,320 --> 00:45:11,300
+pm and roles and
+responsibilities?
+
+752
+00:45:13,670 --> 00:45:17,570
+Yeah, hey, guys. Hey, rich, I
+think you mentioned when you
+
+753
+00:45:17,570 --> 00:45:23,450
+should invest in a PLM,
+essentially around a 12 person
+
+754
+00:45:23,480 --> 00:45:26,030
+team when you get to that stage,
+but what happens if you're
+
+755
+00:45:26,030 --> 00:45:29,900
+trying to get to that stage? Who
+should be tackling those roles
+
+756
+00:45:29,900 --> 00:45:33,440
+and responsibilities? And how do
+you do that effectively? Maybe
+
+757
+00:45:33,440 --> 00:45:35,600
+you're a Product Manager and
+CEO, maybe you're not.
+
+758
+00:45:38,420 --> 00:45:42,470
+It's a real challenge. Yeah. And
+I'm not I'm seeing more true
+
+759
+00:45:42,470 --> 00:45:45,230
+startups two, and three and five
+person startups where one of
+
+760
+00:45:45,230 --> 00:45:50,120
+those folks is, in fact, at
+heart, a product manager. And I
+
+761
+00:45:50,120 --> 00:45:54,800
+think that gets us along the
+discovery or validation track
+
+762
+00:45:54,800 --> 00:45:57,230
+really fast, I just don't see
+most companies being able to
+
+763
+00:45:57,230 --> 00:46:03,260
+afford it. Right. So and that
+person's even, even if they're
+
+764
+00:46:03,470 --> 00:46:06,470
+100% product originally, they're
+probably doing three other jobs,
+
+765
+00:46:06,470 --> 00:46:08,720
+right? At a startup, we're all
+doing a bunch of jobs.
+
+766
+00:46:08,720 --> 00:46:12,530
+So what I'd say is, I think it's
+really, really important or
+
+767
+00:46:12,530 --> 00:46:15,350
+useful for a startup to have
+somebody who's got product
+
+768
+00:46:15,350 --> 00:46:18,680
+management experience. But I'm
+not sure at a four person
+
+769
+00:46:18,680 --> 00:46:22,100
+company that we're going to have
+anybody whose sole job and name
+
+770
+00:46:22,100 --> 00:46:25,550
+tag says Product Management
+because there's, there's not
+
+771
+00:46:25,550 --> 00:46:27,950
+enough division of labor in a
+company that size.
+
+772
+00:46:28,340 --> 00:46:30,380
+I was just gonna pick something
+up because Kevin Davis had a
+
+773
+00:46:30,380 --> 00:46:32,720
+good comment here, full
+disclosure had been fired more
+
+774
+00:46:32,720 --> 00:46:35,480
+than once in this failure mode.
+I've got to tell you, I've been
+
+775
+00:46:35,480 --> 00:46:40,670
+fired more than once in this
+failure mode, too. So only, you
+
+776
+00:46:40,670 --> 00:46:44,690
+know, a handful of times, but it
+was very instructive and good to
+
+777
+00:46:44,690 --> 00:46:47,540
+deflate my ego from where I
+thought it was. Okay, I'm sorry,
+
+778
+00:46:47,540 --> 00:46:49,010
+Mark, you were going to take us
+somewhere else?
+
+779
+00:46:49,160 --> 00:46:52,460
+Yeah, I was just gonna ask John
+Saltz, if he wants to talk about
+
+780
+00:46:52,460 --> 00:46:56,180
+where product marketing should
+fit.
+
+781
+00:46:57,020 --> 00:47:01,520
+Yes. You mentioned the marketing
+sort of spectrum between
+
+782
+00:47:01,520 --> 00:47:04,010
+marketing and product
+management. I'm wondering
+
+783
+00:47:04,010 --> 00:47:07,520
+product marketing. Yeah, big
+enough where you need product
+
+784
+00:47:07,520 --> 00:47:10,460
+marketing, which we're big
+enough, right? Yeah. It's more
+
+785
+00:47:10,460 --> 00:47:13,550
+of knowing the products and then
+doing the marketing function.
+
+786
+00:47:13,550 --> 00:47:14,570
+What do you think about that?
+
+787
+00:47:15,140 --> 00:47:21,020
+I think, it's a hard call,
+right. So when there's enough
+
+788
+00:47:21,020 --> 00:47:23,210
+product marketers, or enough
+product marketing to have a
+
+789
+00:47:23,210 --> 00:47:25,970
+department, right, the two
+choices one is to have it report
+
+790
+00:47:25,970 --> 00:47:30,380
+to marketing. And often the
+product marketers feel a little
+
+791
+00:47:30,680 --> 00:47:34,520
+unloved and left out, because
+they're doing something, you
+
+792
+00:47:34,520 --> 00:47:37,910
+know, somewhat more intellectual
+is maybe a strong word, but it's
+
+793
+00:47:37,910 --> 00:47:42,710
+more content driven, it's more
+subjective. It's very closely
+
+794
+00:47:42,710 --> 00:47:47,450
+tied to sales. And often the
+product marketers feel unloved
+
+795
+00:47:47,450 --> 00:47:52,010
+by the demand gen side of the
+house. But it's one of the two
+
+796
+00:47:52,010 --> 00:47:55,340
+choices. And at least, we know
+that when we bring out a new
+
+797
+00:47:55,340 --> 00:47:57,770
+product, they'll be some
+campaigns behind it, because
+
+798
+00:47:57,770 --> 00:47:59,600
+they're in the same
+organization. And the messaging
+
+799
+00:47:59,600 --> 00:48:03,680
+will be good when we move it
+under the head of product,
+
+800
+00:48:03,680 --> 00:48:06,950
+because sometimes I see product
+marketing as part of the product
+
+801
+00:48:06,950 --> 00:48:08,390
+team next to product management.
+
+802
+00:48:09,410 --> 00:48:12,140
+What we've done is on the
+positive side, we're getting a
+
+803
+00:48:12,140 --> 00:48:15,350
+lot better communications
+between the product marketers
+
+804
+00:48:15,350 --> 00:48:17,900
+and the product managers were
+much more likely to describe the
+
+805
+00:48:17,900 --> 00:48:20,870
+products correctly, to know who
+they're for to have that stuff.
+
+806
+00:48:21,200 --> 00:48:24,770
+But often what we've lost is the
+really tight connection to the
+
+807
+00:48:24,770 --> 00:48:28,760
+rest of marketing. So there's
+this pendulum effect. Sometimes
+
+808
+00:48:28,760 --> 00:48:31,820
+I see where we have product
+marketing on the marketing side
+
+809
+00:48:31,820 --> 00:48:35,750
+for 15 months, and then we
+decide it would be better on the
+
+810
+00:48:35,750 --> 00:48:39,560
+product side for 15 months, and
+then we think it would be better
+
+811
+00:48:39,560 --> 00:48:43,100
+on the marketing side for 15
+months. And those folks get a
+
+812
+00:48:43,100 --> 00:48:49,250
+little whiplash. But, you know,
+I think all product folks figure
+
+813
+00:48:49,250 --> 00:48:52,910
+out that we have to fill the gap
+that the organization creates.
+
+814
+00:48:53,060 --> 00:48:56,600
+So no matter how we divide
+people up, there are natural
+
+815
+00:48:56,600 --> 00:49:00,710
+gaps. And as the product folks,
+we have to see those we have to
+
+816
+00:49:00,710 --> 00:49:05,210
+reach across we have to be
+triply quadruple ly pushy about
+
+817
+00:49:05,210 --> 00:49:07,970
+communicating and loving the
+folks across the gap because
+
+818
+00:49:08,600 --> 00:49:12,470
+everybody is across the aisle
+from us. And, you know, we're
+
+819
+00:49:12,470 --> 00:49:18,410
+always papering over whatever
+division we created. To non
+
+820
+00:49:18,410 --> 00:49:19,700
+answer, but it's my answer.
+
+821
+00:49:20,960 --> 00:49:25,970
+Right, Patrick Quinn, who
+traditionally if he doesn't ask
+
+822
+00:49:29,810 --> 00:49:37,370
+a number of questions at any BoS
+Conference. Isn't really at the
+
+823
+00:49:37,370 --> 00:49:41,900
+conference. Patrick, you've got
+a question about experience
+
+824
+00:49:41,960 --> 00:49:42,740
+knowledge.
+
+825
+00:49:43,160 --> 00:49:47,450
+And and it looks like that's
+about Scrum and Agile. So I'll
+
+826
+00:49:47,450 --> 00:49:51,980
+pick up Patrick's question. So I
+think it's essential. I think
+
+827
+00:49:51,980 --> 00:49:54,830
+it's required that product
+managers really understand how
+
+828
+00:49:54,830 --> 00:49:59,300
+their software is built. I think
+there's no excuse for that. And
+
+829
+00:49:59,300 --> 00:50:03,950
+so we have to be agile
+practitioners, right? We and but
+
+830
+00:50:03,950 --> 00:50:07,010
+in the broad sense, not in
+honest again, I don't care if
+
+831
+00:50:07,010 --> 00:50:09,980
+you're Kanban or Scrum or
+halfway in between your XP,
+
+832
+00:50:09,980 --> 00:50:12,440
+you're right. I've been at this
+game so long that I know that
+
+833
+00:50:12,440 --> 00:50:16,670
+those are all right solutions
+for some situations, I don't
+
+834
+00:50:16,670 --> 00:50:19,850
+think the product folks get to
+be dogmatic about how the
+
+835
+00:50:19,850 --> 00:50:22,670
+software is built. It's not
+their call. But we have to know
+
+836
+00:50:22,670 --> 00:50:26,600
+where we fit in. And probably
+three places where it's really
+
+837
+00:50:26,600 --> 00:50:30,860
+important one is, we have to get
+our problem statements or
+
+838
+00:50:30,860 --> 00:50:33,380
+whatever they are in the right
+format. So our engineers and
+
+839
+00:50:33,380 --> 00:50:36,170
+developers are actually going to
+engage with them. Notice, I
+
+840
+00:50:36,170 --> 00:50:38,570
+didn't say solutions, I said
+problems, right.
+
+841
+00:50:39,500 --> 00:50:43,130
+The second is, I think we need
+to be in every retrospective,
+
+842
+00:50:43,640 --> 00:50:46,700
+because so many of the issues
+that come up on our development
+
+843
+00:50:46,700 --> 00:50:51,350
+teams are out of scope for the
+developers themselves, right?
+
+844
+00:50:51,350 --> 00:50:54,620
+They can't fix organizational
+problems, they can't fix lack of
+
+845
+00:50:54,620 --> 00:50:58,310
+focus on the sales side. They
+can't fix weird, you know,
+
+846
+00:50:58,310 --> 00:51:01,940
+things that marketing's doing,
+and and so my product managers
+
+847
+00:51:01,940 --> 00:51:05,120
+and I show up to the
+retrospectives. So we take
+
+848
+00:51:05,120 --> 00:51:09,500
+assignments out of that to go
+fix things, or lobby folks who
+
+849
+00:51:09,500 --> 00:51:12,800
+are outside the development team
+that are blocking things for
+
+850
+00:51:12,800 --> 00:51:13,790
+development, right.
+
+851
+00:51:13,910 --> 00:51:18,380
+And then the third one is, we as
+product folks are the semi
+
+852
+00:51:18,380 --> 00:51:21,560
+permeable shields were the
+blockers to everybody who wants
+
+853
+00:51:21,560 --> 00:51:24,440
+to interrupt the current sprint,
+I was just working with somebody
+
+854
+00:51:24,440 --> 00:51:29,180
+yesterday. And we defined the
+conditions under which somebody
+
+855
+00:51:29,180 --> 00:51:33,140
+else in the company can break
+the sprint, and it is the list
+
+856
+00:51:33,140 --> 00:51:38,210
+of one and it is p zero system
+down. Customers can't use our
+
+857
+00:51:38,210 --> 00:51:43,160
+software, right? If our cloud is
+offline, if our users can't log
+
+858
+00:51:43,160 --> 00:51:45,860
+in or enter data, we all stop
+what we're doing, and we get it
+
+859
+00:51:45,860 --> 00:51:49,670
+fixed. But anything other than
+that product managers have to
+
+860
+00:51:49,670 --> 00:51:53,120
+throw their bodies in the way of
+all the other interrupts there's
+
+861
+00:51:53,120 --> 00:51:56,480
+nothing so important that we
+can't wait a half a week until
+
+862
+00:51:56,480 --> 00:52:01,040
+the next sprint starts. And so
+we have to live the Agile story,
+
+863
+00:52:01,040 --> 00:52:04,580
+we have to be part of the Agile
+story. But I don't actually care
+
+864
+00:52:04,580 --> 00:52:07,700
+about the details that happen,
+you know that the inside
+
+865
+00:52:07,700 --> 00:52:11,330
+baseball inside the sprint,
+other than that the team's
+
+866
+00:52:11,330 --> 00:52:17,240
+working and I can help them. So
+there's an outer loop, agile
+
+867
+00:52:17,240 --> 00:52:20,510
+here, as opposed to the inner
+loop agile of single story
+
+868
+00:52:20,510 --> 00:52:23,780
+single points. Right? How do we
+support agile as an
+
+869
+00:52:23,780 --> 00:52:28,040
+organization's organization?
+Awesome. Thank you. Cool.
+
+870
+00:52:28,850 --> 00:52:32,570
+All right. Ben McDonald. So what
+are your thoughts on pragmatic
+
+871
+00:52:32,570 --> 00:52:37,250
+marketing framework? But let's
+extend that I mean, the almost
+
+872
+00:52:37,250 --> 00:52:38,990
+infinite number of frameworks.
+
+873
+00:52:38,990 --> 00:52:42,050
+Yeah. And for everything, I
+guess, and I know, the pragmatic
+
+874
+00:52:42,050 --> 00:52:44,510
+folks are really smart, and
+they're helping educate up the
+
+875
+00:52:44,510 --> 00:52:47,750
+product, folks, here's my
+observation. There are, I don't
+
+876
+00:52:47,750 --> 00:52:51,050
+know, maybe no more than a dozen
+or two different frameworks for
+
+877
+00:52:51,050 --> 00:52:56,540
+product management, they are all
+morally the same. You know, you
+
+878
+00:52:56,540 --> 00:52:58,730
+need to have your own framework,
+if you're going to put it on
+
+879
+00:52:58,730 --> 00:53:01,520
+your logo and promote it and
+sell books and put people
+
+880
+00:53:01,520 --> 00:53:06,140
+through your class. But I've
+never actually found anybody who
+
+881
+00:53:06,170 --> 00:53:11,210
+directly implements any of them
+as written. So first of all,
+
+882
+00:53:11,240 --> 00:53:14,780
+they're just boxes on a page
+with some templates. Going to a
+
+883
+00:53:14,780 --> 00:53:18,020
+class for two days does not
+teach you how to be a product
+
+884
+00:53:18,020 --> 00:53:18,470
+manager.
+
+885
+00:53:18,890 --> 00:53:22,460
+My good friend Scott Sal Horst
+out of Austin taught me that a
+
+886
+00:53:22,460 --> 00:53:25,850
+weekend at the dude ranch
+doesn't make you a cowboy.
+
+887
+00:53:26,690 --> 00:53:31,460
+Right. And so it's true mark,
+sorry. So I know that I want to
+
+888
+00:53:31,460 --> 00:53:34,400
+send my folks off maybe to a
+class or two, because we're
+
+889
+00:53:34,400 --> 00:53:37,520
+gonna get a common vocabulary,
+and we're gonna maybe have some
+
+890
+00:53:37,520 --> 00:53:41,540
+common templates, you know, get
+on the same tools. But none of
+
+891
+00:53:41,540 --> 00:53:44,600
+that is the essence of product
+management, the essence of
+
+892
+00:53:44,600 --> 00:53:48,860
+product management is embroiling
+yourself in lots of customer
+
+893
+00:53:48,860 --> 00:53:51,740
+issues, and really, really,
+really deeply understanding and
+
+894
+00:53:51,740 --> 00:53:55,280
+empathizing with what they need.
+And then bringing that stuff
+
+895
+00:53:55,280 --> 00:53:58,970
+back to your development team,
+where the much smarter folks are
+
+896
+00:53:58,970 --> 00:54:02,570
+going to help you figure out how
+to solve it. And the workflows
+
+897
+00:54:02,570 --> 00:54:05,840
+are useful. But every time we
+come to a new company, we blow
+
+898
+00:54:05,840 --> 00:54:07,670
+up those workflows and start
+some new ones.
+
+899
+00:54:07,820 --> 00:54:12,620
+So I wouldn't confuse the grid
+or the matrix or the flow
+
+900
+00:54:12,620 --> 00:54:16,280
+through diagram. With the
+essential content. It's the same
+
+901
+00:54:16,280 --> 00:54:19,280
+problem as I don't know if you
+guys know this, but writing a
+
+902
+00:54:19,280 --> 00:54:23,990
+book is just a matter of putting
+100,000 words in a file. Now,
+
+903
+00:54:24,260 --> 00:54:28,730
+writing a good book is putting
+the correct 100,000 words in the
+
+904
+00:54:28,730 --> 00:54:33,440
+file. And it's easy to get
+confused between I showed up I
+
+905
+00:54:33,440 --> 00:54:37,310
+was in a meeting, I wrote a user
+story and anything of value. So,
+
+906
+00:54:37,520 --> 00:54:40,160
+you know, let's just be cautious
+about how much you can learn in
+
+907
+00:54:40,160 --> 00:54:45,050
+two days of a survey course,
+rather than two years of living
+
+908
+00:54:45,050 --> 00:54:48,470
+with your mistakes by staying on
+the same product long enough
+
+909
+00:54:48,470 --> 00:54:49,670
+that they all come back to bite
+you.
+
+910
+00:54:52,850 --> 00:54:57,620
+Amazing. One last question. If
+someone's got something rich,
+
+911
+00:54:57,620 --> 00:55:00,860
+you rattle through these so
+quickly. Alright. I rattled.
+
+912
+00:55:01,250 --> 00:55:03,140
+Let's don't apologize.
+
+913
+00:55:03,170 --> 00:55:07,130
+Alright, so I have, I have one
+last thought here, which, for
+
+914
+00:55:07,130 --> 00:55:10,160
+those of you who thought this
+was going to be something you
+
+915
+00:55:10,160 --> 00:55:14,240
+wanted to emulate, right?
+Whenever anybody comes up to me
+
+916
+00:55:14,240 --> 00:55:16,970
+and says they think they might
+want to become a product
+
+917
+00:55:16,970 --> 00:55:20,750
+manager, or even worse, a
+product leader, I think it's my
+
+918
+00:55:20,750 --> 00:55:24,800
+obligation spend the next 10 or
+15 minutes, arguing the other
+
+919
+00:55:24,800 --> 00:55:28,790
+side. It's a, it's a
+fascinating, wonderful, narrow
+
+920
+00:55:28,790 --> 00:55:32,150
+position. Most folks don't want
+it most folks don't succeed at
+
+921
+00:55:32,150 --> 00:55:36,020
+it. It's not that much fun. I
+observed that really smart folks
+
+922
+00:55:36,020 --> 00:55:39,110
+do product management for a few
+years, and then something more
+
+923
+00:55:39,110 --> 00:55:43,040
+rewarding. And that's only
+useful if I can tell you I
+
+924
+00:55:43,040 --> 00:55:45,170
+wasn't so smart because I've
+been in product management for
+
+925
+00:55:45,200 --> 00:55:55,220
+30 plus years. So II OMEOJ
+Whatever. Oh, nobody's old
+
+926
+00:55:55,220 --> 00:55:58,820
+enough. And anybody tell me what
+the last punch card in the stack
+
+927
+00:55:58,820 --> 00:56:05,180
+says. And that's only useful
+because each time I've been
+
+928
+00:56:05,180 --> 00:56:09,410
+fired, the three letters I write
+on my whiteboard on my way out R
+
+929
+00:56:09,440 --> 00:56:15,710
+E. O. J. I put an away message
+you said 404. Vice President not
+
+930
+00:56:15,710 --> 00:56:22,460
+found Nice. Okay. Great. Thanks
+for everybody's attention. And
+
+931
+00:56:22,580 --> 00:56:24,650
+for Mark and the team for
+letting me come play
+
